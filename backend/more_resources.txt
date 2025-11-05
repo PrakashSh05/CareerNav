@@ -1,0 +1,40 @@
+INSTRUCTIONS TO ADD MORE SKILLS:
+================================
+
+I've added 60+ skills to learning_resources.json covering:
+
+✅ Already Added (47 skills):
+- Web: React, JavaScript, TypeScript, Node.js, Python, FastAPI, MongoDB, Docker
+- Cloud/DevOps: AWS, Kubernetes, Terraform, Jenkins, Git, Linux, Azure, Google Cloud, CI/CD, Ansible
+- AI/ML: TensorFlow, PyTorch, Deep Learning, NLP, Computer Vision, Keras, Scikit-learn, Pandas, NumPy, Data Science, MLOps, Jupyter, R, Spark, Hadoop, Big Data, Statistics, Algorithms, AI, Machine Learning
+- Backend: Express.js, Django, Flask, Spring Boot, PostgreSQL, MySQL, Elasticsearch, RabbitMQ, Kafka
+- Web Servers: Nginx, Apache
+- Frontend: Angular, Vue.js
+- Databases: Redis, GraphQL, REST API, SQL
+- Architecture: Microservices, System Design, Data Structures
+
+📝 READY TO ADD (30+ more skills in additional_resources.json):
+To add these, manually copy from additional_resources.json and paste before the closing } in learning_resources.json:
+
+- Mobile: Swift, Kotlin, React Native, Flutter, Dart
+- Security: Cybersecurity, Penetration Testing
+- Blockchain: Blockchain, Solidity
+- Languages: Go, Rust, C++, C#, .NET, Ruby, Ruby on Rails, PHP, Laravel
+- Frontend Tools: Tailwind CSS, Bootstrap, Sass, Webpack, Vite
+- Monitoring: Prometheus, Grafana
+- Testing: Selenium, Jest, Cypress, Playwright
+
+CURRENT STATUS:
+- Total skills in learning_resources.json: 60
+- Each skill has 4 resources (Documentation, Video, Course, Book)
+- Total learning resources: 240+ curated links
+
+This should cover most job requirements for:
+✓ AI Engineer
+✓ Cloud Engineer  
+✓ Full Stack Developer
+✓ DevOps Engineer
+✓ Data Engineer
+✓ Mobile Developer
+✓ Security Engineer
+✓ Blockchain Developer

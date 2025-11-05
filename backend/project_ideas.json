@@ -1,0 +1,2770 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Personal Portfolio Website",
+      "description": "Create a responsive personal portfolio website showcasing your skills, projects, and experience. Include sections for about, projects, skills, and contact information.",
+      "difficulty": "Beginner",
+      "estimated_time": "1-2 weeks",
+      "skills": ["HTML", "CSS", "JavaScript", "React", "Responsive Design"],
+      "features": [
+        "Responsive design for all devices",
+        "Interactive project gallery",
+        "Contact form with validation",
+        "Smooth scrolling navigation",
+        "Dark/light theme toggle"
+      ],
+      "roles": ["Frontend Developer", "Full Stack Developer", "UI Designer"]
+    },
+    {
+      "id": 2,
+      "title": "URL Shortener API",
+      "description": "Build a RESTful API service that shortens long URLs, similar to bit.ly. Include features like custom aliases, click tracking, and expiration dates.",
+      "difficulty": "Intermediate",
+      "estimated_time": "2-3 weeks",
+      "skills": ["Python", "FastAPI", "MongoDB", "Redis", "API Design"],
+      "features": [
+        "Shorten long URLs with custom aliases",
+        "Click tracking and analytics",
+        "URL expiration dates",
+        "Rate limiting and authentication",
+        "Bulk URL shortening"
+      ],
+      "roles": ["Backend Developer", "Software Engineer", "API Developer"]
+    },
+    {
+      "id": 3,
+      "title": "Task Management App",
+      "description": "Develop a full-stack task management application with user authentication, project organization, and real-time updates.",
+      "difficulty": "Intermediate",
+      "estimated_time": "3-4 weeks",
+      "skills": ["React", "Node.js", "MongoDB", "Socket.io", "JWT Authentication"],
+      "features": [
+        "User registration and authentication",
+        "Create, edit, and delete tasks",
+        "Project organization and categories",
+        "Real-time collaboration",
+        "Due date reminders and notifications"
+      ],
+      "roles": ["Full Stack Developer", "Product Manager", "Project Manager"]
+    },
+    {
+      "id": 4,
+      "title": "Weather Dashboard",
+      "description": "Create a weather dashboard that displays current weather conditions, forecasts, and weather maps for multiple locations.",
+      "difficulty": "Beginner",
+      "estimated_time": "1-2 weeks",
+      "skills": ["JavaScript", "React", "API Integration", "Chart.js", "Geolocation"],
+      "features": [
+        "Current weather conditions",
+        "5-day weather forecast",
+        "Multiple location support",
+        "Weather charts and graphs",
+        "Geolocation-based weather"
+      ],
+      "roles": ["Frontend Developer", "Data Analyst", "Product Designer"]
+    },
+    {
+      "id": 5,
+      "title": "E-commerce Backend API",
+      "description": "Build a comprehensive e-commerce backend with product management, user authentication, shopping cart, and payment processing.",
+      "difficulty": "Advanced",
+      "estimated_time": "4-6 weeks",
+      "skills": ["Python", "FastAPI", "PostgreSQL", "Redis", "Payment Integration", "Docker"],
+      "features": [
+        "Product catalog management",
+        "User authentication and profiles",
+        "Shopping cart and wishlist",
+        "Order management system",
+        "Payment gateway integration",
+        "Inventory tracking"
+      ],
+      "roles": ["Backend Developer", "Software Engineer", "Solutions Architect"]
+    },
+    {
+      "id": 6,
+      "title": "Real-time Chat Application",
+      "description": "Develop a real-time chat application with multiple rooms, private messaging, file sharing, and emoji support.",
+      "difficulty": "Intermediate",
+      "estimated_time": "3-4 weeks",
+      "skills": ["React", "Node.js", "Socket.io", "MongoDB", "File Upload", "Real-time Communication"],
+      "features": [
+        "Real-time messaging",
+        "Multiple chat rooms",
+        "Private messaging",
+        "File and image sharing",
+        "Emoji and reaction support",
+        "Message history and search"
+      ],
+      "roles": ["Full Stack Developer", "Platform Engineer", "Software Engineer"]
+    },
+    {
+      "id": 7,
+      "title": "Data Visualization Dashboard",
+      "description": "Create an interactive dashboard that visualizes data from various sources using charts, graphs, and maps.",
+      "difficulty": "Intermediate",
+      "estimated_time": "2-3 weeks",
+      "skills": ["React", "D3.js", "Python", "Pandas", "API Development", "Data Processing"],
+      "features": [
+        "Interactive charts and graphs",
+        "Data filtering and sorting",
+        "Export functionality",
+        "Real-time data updates",
+        "Multiple data source integration",
+        "Responsive design"
+      ],
+      "roles": ["Data Analyst", "Data Scientist", "Business Intelligence Analyst"]
+    },
+    {
+      "id": 8,
+      "title": "Machine Learning Model Deployment",
+      "description": "Train a machine learning model and deploy it as a web service with a user-friendly interface for predictions.",
+      "difficulty": "Advanced",
+      "estimated_time": "3-5 weeks",
+      "skills": ["Python", "Scikit-learn", "FastAPI", "Docker", "Machine Learning", "Model Deployment"],
+      "features": [
+        "Train and evaluate ML models",
+        "RESTful API for predictions",
+        "Model versioning and management",
+        "Input validation and preprocessing",
+        "Performance monitoring",
+        "Containerized deployment"
+      ],
+      "roles": ["Machine Learning Engineer", "AI Engineer", "Data Scientist"]
+    },
+    {
+      "id": 9,
+      "title": "Blog Platform with CMS",
+      "description": "Build a full-featured blog platform with content management system, user roles, and SEO optimization.",
+      "difficulty": "Advanced",
+      "estimated_time": "4-6 weeks",
+      "skills": ["React", "Node.js", "MongoDB", "Rich Text Editor", "SEO", "User Management"],
+      "features": [
+        "Rich text editor for posts",
+        "User roles and permissions",
+        "Comment system with moderation",
+        "SEO optimization",
+        "Tag and category management",
+        "Analytics and insights"
+      ],
+      "roles": ["Full Stack Developer", "Product Manager", "Content Strategist"]
+    },
+    {
+      "id": 10,
+      "title": "Social Media Analytics Tool",
+      "description": "Develop a tool that analyzes social media data, tracks engagement metrics, and provides insights through visualizations.",
+      "difficulty": "Advanced",
+      "estimated_time": "4-5 weeks",
+      "skills": ["Python", "API Integration", "Data Analysis", "React", "Chart.js", "Social Media APIs"],
+      "features": [
+        "Social media API integration",
+        "Engagement metrics tracking",
+        "Sentiment analysis",
+        "Competitor analysis",
+        "Automated reporting",
+        "Data export functionality"
+      ],
+      "roles": ["Data Analyst", "Marketing Analyst", "Growth Hacker"]
+    },
+    {
+      "id": 11,
+      "title": "Expense Tracker Mobile App",
+      "description": "Create a mobile expense tracking application with budget management, category-wise spending analysis, and financial insights.",
+      "difficulty": "Intermediate",
+      "estimated_time": "3-4 weeks",
+      "skills": ["React Native", "SQLite", "Chart.js", "Mobile Development", "Local Storage"],
+      "features": [
+        "Expense categorization",
+        "Budget setting and tracking",
+        "Spending analytics and reports",
+        "Receipt photo capture",
+        "Recurring expense management",
+        "Data backup and sync"
+      ],
+      "roles": ["Mobile Developer", "Product Manager", "Financial Analyst"]
+    },
+    {
+      "id": 12,
+      "title": "Code Snippet Manager",
+      "description": "Build a web application for storing, organizing, and sharing code snippets with syntax highlighting and search functionality.",
+      "difficulty": "Intermediate",
+      "estimated_time": "2-3 weeks",
+      "skills": ["React", "Node.js", "MongoDB", "Syntax Highlighting", "Search", "User Authentication"],
+      "features": [
+        "Syntax highlighting for multiple languages",
+        "Snippet categorization and tagging",
+        "Advanced search functionality",
+        "Public and private snippets",
+        "Code sharing and collaboration",
+        "Favorite and bookmark system"
+      ],
+      "roles": ["Full Stack Developer", "Developer Advocate", "Software Engineer"]
+    },
+    {
+      "id": 13,
+      "title": "Automated Testing Framework",
+      "description": "Design a modular test automation framework with reusable components, reporting, and CI integration for web applications.",
+      "difficulty": "Intermediate",
+      "estimated_time": "3-4 weeks",
+      "skills": ["Python", "Playwright", "PyTest", "CI/CD", "Test Automation"],
+      "features": [
+        "Keyword-driven and data-driven test execution",
+        "Parallel test runs and environment configuration",
+        "Rich HTML and JSON reporting",
+        "CI/CD pipeline integration",
+        "Slack or email notifications"
+      ],
+      "roles": ["Test Automation Engineer", "QA Engineer", "SDET"]
+    },
+    {
+      "id": 14,
+      "title": "Cloud Cost Optimization Dashboard",
+      "description": "Build a dashboard that aggregates cloud usage metrics, forecasts spend, and recommends optimization opportunities across providers.",
+      "difficulty": "Advanced",
+      "estimated_time": "4-6 weeks",
+      "skills": ["TypeScript", "Next.js", "AWS Cost Explorer API", "Serverless", "Data Visualization"],
+      "features": [
+        "Multi-cloud cost aggregation",
+        "Spend forecasting with anomaly detection",
+        "Tag-based cost allocation",
+        "Savings plan and reserved instance recommendations",
+        "Automated reports and alerts"
+      ],
+      "roles": ["Cloud Engineer", "FinOps Analyst", "Platform Engineer"]
+    },
+    {
+      "id": 15,
+      "title": "ML Feature Store Pipeline",
+      "description": "Implement a feature store pipeline that ingests raw data, computes features, and serves them for training and real-time inference.",
+      "difficulty": "Advanced",
+      "estimated_time": "5-6 weeks",
+      "skills": ["Python", "Apache Kafka", "Spark", "Airflow", "ML Ops", "Docker"],
+      "features": [
+        "Batch and streaming feature ingestion",
+        "Feature versioning and metadata tracking",
+        "Data quality validation",
+        "Real-time feature serving API",
+        "Monitoring dashboards for feature drift"
+      ],
+      "roles": ["ML Ops Engineer", "Data Engineer", "Machine Learning Engineer"]
+    },
+    {
+      "id": 16,
+      "title": "Customer Support AI Chatbot",
+      "description": "Create an AI-powered support assistant that integrates with knowledge bases, classifies intent, and escalates complex issues to humans.",
+      "difficulty": "Intermediate",
+      "estimated_time": "3-5 weeks",
+      "skills": ["Python", "LangChain", "OpenAI API", "Vector Databases", "React", "Tailwind"],
+      "features": [
+        "Multi-turn conversational flows",
+        "Intent classification and sentiment analysis",
+        "Knowledge base retrieval augmentation",
+        "Live agent handoff",
+        "Conversation analytics dashboard"
+      ],
+      "roles": ["AI Engineer", "Customer Success Engineer", "Product Manager"]
+    },
+    {
+      "id": 17,
+      "title": "IoT Smart Home Hub",
+      "description": "Develop a central hub that connects IoT devices, provides automation workflows, and exposes an extensible API for new integrations.",
+      "difficulty": "Advanced",
+      "estimated_time": "5-6 weeks",
+      "skills": ["Node.js", "TypeScript", "MQTT", "GraphQL", "Docker", "Edge Computing"],
+      "features": [
+        "Device discovery and onboarding",
+        "Rule-based automation workflows",
+        "Time-series data storage and visualization",
+        "Mobile-friendly control dashboard",
+        "Plugin system for device extensions"
+      ],
+      "roles": ["IoT Engineer", "Full Stack Developer", "Solutions Architect"]
+    },
+    {
+      "id": 18,
+      "title": "Cybersecurity Incident Simulator",
+      "description": "Create a simulation platform that replays cybersecurity incidents, evaluates incident response playbooks, and generates readiness scores.",
+      "difficulty": "Advanced",
+      "estimated_time": "4-6 weeks",
+      "skills": ["Python", "Django", "PostgreSQL", "Security Automation", "React", "WebSockets"],
+      "features": [
+        "Scenario editor with threat templates",
+        "Attack timeline visualization",
+        "Response playbook evaluation",
+        "Team collaboration scoring",
+        "Reporting and exportable assessments"
+      ],
+      "roles": ["Security Engineer", "Incident Responder", "DevSecOps Engineer"]
+    },
+    {
+      "id": 19,
+      "title": "SaaS Subscription Analytics",
+      "description": "Build an analytics suite for SaaS teams to track subscription metrics, forecast churn, and identify upsell opportunities.",
+      "difficulty": "Intermediate",
+      "estimated_time": "3-4 weeks",
+      "skills": ["Python", "Airflow", "dbt", "Snowflake", "React", "Tailwind"],
+      "features": [
+        "MRR, ARR, and cohort dashboards",
+        "Churn prediction with alerting",
+        "Customer segmentation and scoring",
+        "Data ingestion pipelines with quality checks",
+        "Automated email summaries for stakeholders"
+      ],
+      "roles": ["Data Analyst", "Product Manager", "Revenue Operations Analyst"]
+    },
+    {
+      "id": 20,
+      "title": "Generative Design Assistant",
+      "description": "Implement an AI-powered assistant that generates UI mockups, style guides, and component libraries from product requirements.",
+      "difficulty": "Advanced",
+      "estimated_time": "4-5 weeks",
+      "skills": ["Python", "Stable Diffusion", "Figma API", "Next.js", "Prompt Engineering"],
+      "features": [
+        "Requirement-driven layout generation",
+        "Design tokens and style guide export",
+        "Variant exploration with feedback loop",
+        "Component library handoff",
+        "Collaboration workspace with comments"
+      ],
+      "roles": ["Product Designer", "UX Designer", "Front End Developer"]
+    },
+    {
+      "id": 21,
+      "title": "Sustainability Impact Tracker",
+      "description": "Create a platform that helps organizations track carbon footprint, set reduction targets, and monitor sustainability initiatives.",
+      "difficulty": "Intermediate",
+      "estimated_time": "3-5 weeks",
+      "skills": ["React", "Node.js", "GraphQL", "Data Visualization", "AWS", "ESG Reporting"],
+      "features": [
+        "Carbon footprint calculators",
+        "Initiative tracking with OKRs",
+        "Reduction target forecasting",
+        "Emission source dashboards",
+        "Stakeholder reporting exports"
+      ],
+      "roles": ["Sustainability Analyst", "Product Manager", "Data Scientist"]
+    },
+    {
+      "id": 22,
+      "title": "TypeScript Microservice Starter",
+      "description": "Bootstrap a production-ready REST API with TypeScript, opinionated linting, containerization, and automated testing.",
+      "difficulty": "Beginner",
+      "estimated_time": "1-2 weeks",
+      "skills": ["TypeScript", "Express", "Prisma", "Docker", "Jest"],
+      "features": [
+        "Scaffolded CRUD modules with validation",
+        "Prisma schema for PostgreSQL",
+        "Containerized local dev + hot reload",
+        "GitHub Actions CI with lint/test stages",
+        "OpenAPI docs served via Swagger"] ,
+      "roles": ["Software Developer", "Software Engineer"]
+    },
+    {
+      "id": 23,
+      "title": "Reactive Portfolio Playground",
+      "description": "Craft a modern developer portfolio that showcases projects, uses MDX content, and deploys via edge hosting.",
+      "difficulty": "Beginner",
+      "estimated_time": "1-2 weeks",
+      "skills": ["React", "Next.js", "MDX", "Tailwind CSS", "Vercel"],
+      "features": [
+        "Dynamic project grid fed from CMS",
+        "MDX-driven blog with syntax highlighting",
+        "Themeable design system with tokens",
+        "Edge-deployed ISR for ultra-fast loads",
+        "Lighthouse score guard in CI"],
+      "roles": ["Software Developer", "Software Engineer"]
+    },
+    {
+      "id": 24,
+      "title": "Domain-Driven Issue Tracker",
+      "description": "Implement a domain-driven backend with rich aggregates, CQRS patterns, and production telemetry.",
+      "difficulty": "Intermediate",
+      "estimated_time": "2-3 weeks",
+      "skills": ["NestJS", "PostgreSQL", "Redis", "CQRS", "OpenTelemetry"],
+      "features": [
+        "Command/query separation with explicit aggregates",
+        "Background workers using BullMQ",
+        "Structured logging and trace exports",
+        "Role-based access and audit trails",
+        "GraphQL + REST dual API surface"],
+      "roles": ["Software Developer", "Software Engineer"]
+    },
+    {
+      "id": 25,
+      "title": "Realtime Pair Programming Whiteboard",
+      "description": "Build a collaborative coding canvas with voice rooms, code snippets, and presence indicators.",
+      "difficulty": "Intermediate",
+      "estimated_time": "2-3 weeks",
+      "skills": ["Node.js", "WebSockets", "Redis", "React", "WebRTC"],
+      "features": [
+        "Operational transform engine for code blocks",
+        "Presence service with avatars and cursors",
+        "Integrated audio rooms using WebRTC",
+        "Replayable session timeline",
+        "OAuth workspace invitations"],
+      "roles": ["Software Developer", "Software Engineer"]
+    },
+    {
+      "id": 26,
+      "title": "Event-Sourced Subscription Engine",
+      "description": "Create an event-sourced billing core with stream projections, compliance exports, and failover orchestration.",
+      "difficulty": "Advanced",
+      "estimated_time": "4-6 weeks",
+      "skills": ["Kafka", "TypeScript", "Event Sourcing", "Kubernetes", "Temporal.io"],
+      "features": [
+        "CQRS write/read services with projections",
+        "Temporal workflows for billing retries",
+        "Multi-region Kafka cluster deployment",
+        "GDPR-compliant data export tooling",
+        "Chaos testing harness for resilience"],
+      "roles": ["Software Developer", "Software Engineer"]
+    },
+    {
+      "id": 27,
+      "title": "Atomic UI Design System",
+      "description": "Ship a modern component library with accessibility baked in, visual regression tests, and documentation site.",
+      "difficulty": "Beginner",
+      "estimated_time": "1-2 weeks",
+      "skills": ["React", "TypeScript", "Storybook", "Tailwind CSS", "Chromatic"],
+      "features": [
+        "Token-driven theming with CSS variables",
+        "ARIA-compliant interactive components",
+        "Storybook docs with MDX guidelines",
+        "Visual regression CI via Chromatic",
+        "Versioned package publishing workflow"],
+      "roles": ["Frontend Developer"]
+    },
+    {
+      "id": 28,
+      "title": "Accessible Data Dashboard",
+      "description": "Build a Vue 3 analytics dashboard with internationalization, keyboard-first navigation, and realtime charts.",
+      "difficulty": "Beginner",
+      "estimated_time": "1-2 weeks",
+      "skills": ["Vue 3", "Vite", "Pinia", "ECharts", "i18n"],
+      "features": [
+        "WCAG-compliant navigation patterns",
+        "Realtime chart updates via SSE",
+        "User preference persistence (theme + locale)",
+        "Composable state management with Pinia",
+        "Playwright smoke tests in CI"],
+      "roles": ["Frontend Developer"]
+    },
+    {
+      "id": 29,
+      "title": "Micro-frontend Analytics Console",
+      "description": "Compose a module-federated dashboard with independent deployments, shared design tokens, and runtime integration.",
+      "difficulty": "Intermediate",
+      "estimated_time": "2-3 weeks",
+      "skills": ["React", "Webpack Module Federation", "GraphQL", "NX", "Tailwind CSS"],
+      "features": [
+        "Multiple remotes with dynamic routing",
+        "GraphQL API layer with caching",
+        "Shared design tokens consumed across apps",
+        "Deployment scripts per micro-frontend",
+        "Synthetic monitoring with Playwright"],
+      "roles": ["Frontend Developer"]
+    },
+    {
+      "id": 30,
+      "title": "Offline-first Commerce PWA",
+      "description": "Deliver a progressive web app storefront with offline baskets, push notifications, and headless CMS integration.",
+      "difficulty": "Intermediate",
+      "estimated_time": "2-3 weeks",
+      "skills": ["Next.js", "GraphQL", "Workbox", "Contentful", "TypeScript"],
+      "features": [
+        "Offline basket with IndexedDB sync",
+        "Push notification campaigns via OneSignal",
+        "GraphQL queries with Apollo cache hydration",
+        "Contentful-driven merchandising blocks",
+        "Bundle analyzer + performance budgets"],
+      "roles": ["Frontend Developer"]
+    },
+    {
+      "id": 31,
+      "title": "WebGPU Product Configurator",
+      "description": "Create an immersive 3D configurator with WebGPU, parametric rendering, and collaborative annotations.",
+      "difficulty": "Advanced",
+      "estimated_time": "4-5 weeks",
+      "skills": ["WebGPU", "React Three Fiber", "zustand", "GLTF", "Turborepo"],
+      "features": [
+        "Parametric material + geometry editing",
+        "Shared annotation threads with presence",
+        "Snapshot + export pipeline for marketing",
+        "Device capability detection + fallbacks",
+        "CI-based bundle size regression gates"],
+      "roles": ["Frontend Developer"]
+    },
+    {
+      "id": 32,
+      "title": "FastAPI Observability Starter",
+      "description": "Spin up a FastAPI backend with structured logging, metrics, and container-native deployment scripts.",
+      "difficulty": "Beginner",
+      "estimated_time": "1-2 weeks",
+      "skills": ["Python", "FastAPI", "SQLModel", "Docker", "OpenTelemetry"],
+      "features": [
+        "Auto-generated OpenAPI + ReDoc",
+        "SQLModel CRUD scaffold for Postgres",
+        "OpenTelemetry traces exported to Jaeger",
+        "Task queue integration with Celery",
+        "Poetry-based dependency management"],
+      "roles": ["Backend Developer"]
+    },
+    {
+      "id": 33,
+      "title": "Go Feature Toggle API",
+      "description": "Implement a minimal feature flag service with Go Fiber, SQLite persistence, and SDKs for clients.",
+      "difficulty": "Beginner",
+      "estimated_time": "1-2 weeks",
+      "skills": ["Go", "Fiber", "SQLite", "Docker", "Clean Architecture"],
+      "features": [
+        "REST + gRPC endpoints for flag management",
+        "Environment-specific rollout strategies",
+        "SDK generation for Node and Go",
+        "JWT-based admin authentication",
+        "Prometheus metrics exporter"],
+      "roles": ["Backend Developer"]
+    },
+    {
+      "id": 34,
+      "title": "GraphQL Payments Gateway",
+      "description": "Create a PCI-conscious payment abstraction layer with GraphQL, resolvers, and webhook orchestration.",
+      "difficulty": "Intermediate",
+      "estimated_time": "2-3 weeks",
+      "skills": ["Node.js", "Apollo Server", "Stripe", "PostgreSQL", "Redis"],
+      "features": [
+        "Unified GraphQL schema for multiple PSPs",
+        "Webhook listener with idempotent retries",
+        "SCA-compliant payment intents flow",
+        "Encrypted vault for customer tokens",
+        "Grafana dashboards for payment KPIs"],
+      "roles": ["Backend Developer"]
+    },
+    {
+      "id": 35,
+      "title": "Event-driven Notification Mesh",
+      "description": "Engineer an event-driven notification service with fan-out routing, preference centers, and SMS/email providers.",
+      "difficulty": "Intermediate",
+      "estimated_time": "3-4 weeks",
+      "skills": ["Kafka", "NestJS", "Redis Streams", "SendGrid", "Twilio"],
+      "features": [
+        "Topic-based routing with Kafka streams",
+        "User preference center with GraphQL API",
+        "Provider failover + rate limiting",
+        "Dead-letter queue dashboards",
+        "Automatic load tests via k6"],
+      "roles": ["Backend Developer"]
+    },
+    {
+      "id": 36,
+      "title": "Zero-Downtime Deployment Orchestrator",
+      "description": "Design an operator that orchestrates blue/green and canary deployments across multiple clusters.",
+      "difficulty": "Advanced",
+      "estimated_time": "4-6 weeks",
+      "skills": ["Go", "Kubernetes Operators", "Argo Rollouts", "gRPC", "Prometheus"],
+      "features": [
+        "Custom resource definitions for rollout policies",
+        "Automated health gates with Prometheus queries",
+        "Multi-cluster orchestration via gRPC",
+        "Progressive delivery analytics dashboard",
+        "Drift detection + remediation routines"],
+      "roles": ["Backend Developer"]
+    },
+    {
+      "id": 37,
+      "title": "SaaS Billing Starter Kit",
+      "description": "Build a full-stack SaaS starter with subscription billing, self-service onboarding, and tenant analytics.",
+      "difficulty": "Beginner",
+      "estimated_time": "1-2 weeks",
+      "skills": ["Next.js", "Supabase", "Stripe", "TypeScript", "Tailwind CSS"],
+      "features": [
+        "Tiered subscription plans with Stripe Billing",
+        "Supabase auth + row-level security",
+        "Tenant-aware analytics dashboard",
+        "Email onboarding journeys",
+        "One-click deploy via Vercel"],
+      "roles": ["Full Stack Developer"]
+    },
+    {
+      "id": 38,
+      "title": "Realtime Collaboration Notes",
+      "description": "Deliver a full-stack note app with edge storage, CRDT sync, and AI summarization helpers.",
+      "difficulty": "Beginner",
+      "estimated_time": "1-2 weeks",
+      "skills": ["Remix", "Cloudflare D1", "Cloudflare Workers", "CRDT", "OpenAI"],
+      "features": [
+        "CRDT-based realtime editing",
+        "Edge-hosted database with D1",
+        "AI-generated note summaries",
+        "Offline-first caching strategies",
+        "Secure sharing via signed tokens"],
+      "roles": ["Full Stack Developer"]
+    },
+    {
+      "id": 39,
+      "title": "AI Knowledge Base Concierge",
+      "description": "Create a full-stack knowledge base with embeddings search, chat interface, and analytics heatmaps.",
+      "difficulty": "Intermediate",
+      "estimated_time": "3-4 weeks",
+      "skills": ["Next.js", "Pinecone", "LangChain", "tRPC", "PostHog"],
+      "features": [
+        "Embeddings-driven semantic search",
+        "Chat assistant with context windows",
+        "Admin analytics via PostHog",
+        "Fine-tuning pipeline templates",
+        "Role-based access for teams"],
+      "roles": ["Full Stack Developer"]
+    },
+    {
+      "id": 40,
+      "title": "Composable Commerce Marketplace",
+      "description": "Launch a headless marketplace using composable architecture, inventory sync, and marketing automation.",
+      "difficulty": "Intermediate",
+      "estimated_time": "3-4 weeks",
+      "skills": ["Nuxt 3", "MedusaJS", "GraphQL", "Algolia", "Segment"],
+      "features": [
+        "Multi-vendor onboarding flows",
+        "Composable checkout with Medusa",
+        "Algolia search + personalization",
+        "Inventory sync microservice",
+        "Segment-driven marketing automations"],
+      "roles": ["Full Stack Developer"]
+    },
+    {
+      "id": 41,
+      "title": "Multi-tenant Platform Blueprint",
+      "description": "Engineer a multi-tenant platform with workspace isolation, background jobs, and infrastructure as code.",
+      "difficulty": "Advanced",
+      "estimated_time": "5-6 weeks",
+      "skills": ["Next.js", "NestJS", "Prisma", "Kubernetes", "Terraform"],
+      "features": [
+        "Isolated tenant data via Prisma schemas",
+        "Background job orchestration with BullMQ",
+        "Kubernetes Helm charts per environment",
+        "Terraform modules for cloud resources",
+        "Comprehensive audit logging + SIEM feeds"],
+      "roles": ["Full Stack Developer"]
+    },
+    {
+      "id": 42,
+      "title": "React Native Wellness Tracker",
+      "description": "Build a wellness tracking app with habit streaks, wearable integrations, and push reminders.",
+      "difficulty": "Beginner",
+      "estimated_time": "1-2 weeks",
+      "skills": ["React Native", "Expo", "TypeScript", "Supabase", "Push Notifications"],
+      "features": [
+        "Habit streak dashboards with charts",
+        "Supabase-authenticated user profiles",
+        "Calendar sync with Expo Calendar API",
+        "Push notification reminder engine",
+        "Light/Dark theme with design tokens"],
+      "roles": ["Mobile App Developer"]
+    },
+    {
+      "id": 43,
+      "title": "Flutter Microlearning Hub",
+      "description": "Deliver a Flutter app for bite-sized lessons with gamification, offline cache, and analytics.",
+      "difficulty": "Beginner",
+      "estimated_time": "1-2 weeks",
+      "skills": ["Flutter", "Riverpod", "Firebase", "Hive", "Analytics"],
+      "features": [
+        "Gamified lesson progression",
+        "Offline caching via Hive boxes",
+        "Dynamic theming with Material 3",
+        "In-app feedback + rating prompts",
+        "Firebase Analytics funnels"],
+      "roles": ["Mobile App Developer"]
+    },
+    {
+      "id": 44,
+      "title": "Vision Workout Coach",
+      "description": "Create a SwiftUI fitness companion leveraging visionOS, spatial gestures, and HealthKit insights.",
+      "difficulty": "Intermediate",
+      "estimated_time": "3-4 weeks",
+      "skills": ["SwiftUI", "visionOS", "HealthKit", "Combine", "CoreML"],
+      "features": [
+        "Spatial gesture-based workout guidance",
+        "HealthKit integration for biometrics",
+        "CoreML pose estimation coaching",
+        "Adaptive workouts via Combine pipelines",
+        "SharePlay sessions for group training"],
+      "roles": ["Mobile App Developer"]
+    },
+    {
+      "id": 45,
+      "title": "KMM Travel Planner",
+      "description": "Build a Kotlin Multiplatform travel planner with shared logic, offline support, and dynamic itineraries.",
+      "difficulty": "Intermediate",
+      "estimated_time": "3-4 weeks",
+      "skills": ["Kotlin Multiplatform", "Compose Multiplatform", "SwiftUI", "SQLite", "GraphQL"],
+      "features": [
+        "Shared itinerary engine across iOS/Android",
+        "Offline sync with SQLDelight",
+        "GraphQL backend with caching",
+        "Jetpack Compose + SwiftUI UI layers",
+        "Push notifications for trip reminders"],
+      "roles": ["Mobile App Developer"]
+    },
+    {
+      "id": 46,
+      "title": "Spatial AR Navigation Companion",
+      "description": "Develop an AR navigation assistant with live mapping, computer vision anchors, and wearable handoff.",
+      "difficulty": "Advanced",
+      "estimated_time": "5-6 weeks",
+      "skills": ["Unity", "AR Foundation", "Azure Spatial Anchors", "GraphQL", "gRPC"],
+      "features": [
+        "Turn-by-turn AR guidance with anchors",
+        "Wearable handoff to Apple Watch/Android",
+        "GraphQL routing microservice",
+        "Crowdsourced map corrections",
+        "Telemetry dashboards for route accuracy"],
+      "roles": ["Mobile App Developer"]
+    },
+    {
+      "id": 47,
+      "title": "GitHub Actions CI Starter",
+      "description": "Set up a modern CI pipeline with reusable workflows, dependency scanning, and chat notifications.",
+      "difficulty": "Beginner",
+      "estimated_time": "1-2 weeks",
+      "skills": ["GitHub Actions", "Docker", "Node.js", "Terraform", "Security Scanning"],
+      "features": [
+        "Reusable workflow templates for monorepos",
+        "Dependency scanning with GitHub Advanced Security",
+        "Automated environment provisioning via Terraform",
+        "Slack notification integration",
+        "Matrix builds for OS/browser coverage"],
+      "roles": ["DevOps Engineer"]
+    },
+    {
+      "id": 48,
+      "title": "Container Security Lab",
+      "description": "Create a lab that scans, signs, and verifies containers with automated remediation guidance.",
+      "difficulty": "Beginner",
+      "estimated_time": "1-2 weeks",
+      "skills": ["Docker", "Trivy", "Cosign", "GitHub Actions", "OPA"],
+      "features": [
+        "Trivy scan reports with severity gates",
+        "Cosign signing + verification workflow",
+        "Policy checks via Open Policy Agent",
+        "SBOM generation + storage",
+        "Slack alerts for critical findings"],
+      "roles": ["DevOps Engineer"]
+    },
+    {
+      "id": 49,
+      "title": "Progressive Delivery Pipeline",
+      "description": "Implement a GitOps progressive delivery stack with canary analysis, metrics gates, and automated rollbacks.",
+      "difficulty": "Intermediate",
+      "estimated_time": "3-4 weeks",
+      "skills": ["Argo CD", "Argo Rollouts", "Kubernetes", "Prometheus", "Helm"],
+      "features": [
+        "GitOps repo structure with Helm charts",
+        "Automated canary analysis via Prometheus",
+        "Rollout metrics dashboards",
+        "Slack + PagerDuty notifications",
+        "Policy enforcement with Kyverno"],
+      "roles": ["DevOps Engineer"]
+    },
+    {
+      "id": 50,
+      "title": "Multi-cloud IaC Control Plane",
+      "description": "Build a Pulumi-backed control plane that provisions standardized stacks across AWS and Azure.",
+      "difficulty": "Intermediate",
+      "estimated_time": "3-4 weeks",
+      "skills": ["Pulumi", "TypeScript", "AWS", "Azure", "Crossplane"],
+      "features": [
+        "Self-service stack catalog with Pulumi Automation API",
+        "Cost guardrails + budget alerts",
+        "Crossplane-managed shared services",
+        "Drift detection with automated remediation",
+        "Audit logging via CloudTrail + Azure Monitor"],
+      "roles": ["DevOps Engineer"]
+    },
+    {
+      "id": 51,
+      "title": "Policy-as-Code Platform",
+      "description": "Engineer a central policy-as-code platform enforcing security, compliance, and infrastructure best practices.",
+      "difficulty": "Advanced",
+      "estimated_time": "4-6 weeks",
+      "skills": ["Open Policy Agent", "Kubernetes", "Rego", "Terraform Cloud", "Backstage"],
+      "features": [
+        "OPA policy bundles with automated distribution",
+        "Backstage plugin for policy visibility",
+        "Terraform Cloud integration for guardrails",
+        "Drift + violation reporting dashboards",
+        "ChatOps workflow for policy exceptions"],
+      "roles": ["DevOps Engineer"]
+    },
+    {
+      "id": 52,
+      "title": "Observability Sandbox",
+      "description": "Deploy an observability lab featuring metrics, traces, and logs with guided incident scenarios.",
+      "difficulty": "Beginner",
+      "estimated_time": "1-2 weeks",
+      "skills": ["Prometheus", "Grafana", "Loki", "Tempo", "Helm"],
+      "features": [
+        "Helm charts for observability stack",
+        "Sample services emitting RED metrics",
+        "Grafana dashboards with SLO widgets",
+        "Tracing demos via Tempo",
+        "Incident runbooks + guided exercises"],
+      "roles": ["Site Reliability Engineer", "SRE"]
+    },
+    {
+      "id": 53,
+      "title": "Incident Runbook Hub",
+      "description": "Construct a runbook portal with automation hooks, chat integrations, and on-call rotations.",
+      "difficulty": "Beginner",
+      "estimated_time": "1-2 weeks",
+      "skills": ["Next.js", "PlanetScale", "Clerk", "Slack API", "Notion API"],
+      "features": [
+        "Markdown-powered runbook editor",
+        "Incident timeline builder",
+        "Slack slash commands for runbook lookup",
+        "On-call schedule sync via PagerDuty",
+        "Post-incident review templates"],
+      "roles": ["Site Reliability Engineer", "SRE"]
+    },
+    {
+      "id": 54,
+      "title": "Chaos Engineering Playground",
+      "description": "Launch a chaos experimentation platform with gamified scenarios, safe blast radius, and reporting.",
+      "difficulty": "Intermediate",
+      "estimated_time": "3-4 weeks",
+      "skills": ["LitmusChaos", "Kubernetes", "Go", "Grafana", "Istio"],
+      "features": [
+        "Scenario catalog with approval workflow",
+        "Blast radius visualizations",
+        "Resilience scoring per service",
+        "Integration with Grafana Loki for logs",
+        "Automated rollback and recovery scripts"],
+      "roles": ["Site Reliability Engineer", "SRE"]
+    },
+    {
+      "id": 55,
+      "title": "Latency Budget Analyzer",
+      "description": "Create a latency budget analyzer that ingests traces, recommends optimizations, and forecasts SLO burn.",
+      "difficulty": "Intermediate",
+      "estimated_time": "3-4 weeks",
+      "skills": ["Python", "OpenTelemetry", "BigQuery", "dbt", "Plotly Dash"],
+      "features": [
+        "Trace ingestion pipeline with OTLP",
+        "Budget vs actual burn charts",
+        "Automated anomaly detection via Prophet",
+        "Optimization recommendation playbooks",
+        "SLO export to PagerDuty"],
+      "roles": ["Site Reliability Engineer", "SRE"]
+    },
+    {
+      "id": 56,
+      "title": "Self-Healing Service Mesh",
+      "description": "Engineer a service mesh with auto-remediation bots, adaptive throttling, and multi-cluster resiliency.",
+      "difficulty": "Advanced",
+      "estimated_time": "4-6 weeks",
+      "skills": ["Istio", "KEDA", "Go", "Kubernetes", "Prometheus"],
+      "features": [
+        "Adaptive throttling via Envoy filters",
+        "Auto-remediation bots powered by KEDA",
+        "Multi-cluster failover runbooks",
+        "Traffic shadowing pipelines",
+        "SLO compliance dashboards"],
+      "roles": ["Site Reliability Engineer", "SRE"]
+    },
+    {
+      "id": 57,
+      "title": "Serverless Launchpad",
+      "description": "Stand up a production-ready serverless stack with CI/CD, staged environments, and observability hooks.",
+      "difficulty": "Beginner",
+      "estimated_time": "1-2 weeks",
+      "skills": ["AWS Lambda", "API Gateway", "DynamoDB", "TypeScript", "Pulumi"],
+      "features": [
+        "Pulumi templates for dev/stage/prod",
+        "API Gateway with JWT authorizers",
+        "DynamoDB single-table design starter",
+        "CloudWatch dashboards + alarms",
+        "GitHub Actions pipeline for IaC"] ,
+      "roles": ["Cloud Engineer", "Cloud Architect"]
+    },
+    {
+      "id": 58,
+      "title": "Cloud Cost Guardrails",
+      "description": "Deploy a cost-optimized sandbox with tagging policies, budget alerts, and automated cleanup jobs.",
+      "difficulty": "Beginner",
+      "estimated_time": "1-2 weeks",
+      "skills": ["AWS Organizations", "AWS Budgets", "EventBridge", "Python", "Terraform"],
+      "features": [
+        "Guardrails via Service Control Policies",
+        "AWS Budget alerts to Slack",
+        "EventBridge scheduled cleanup lambdas",
+        "Resource tagging compliance reports",
+        "Terraform Cloud workspace automation"],
+      "roles": ["Cloud Engineer", "Cloud Architect"]
+    },
+    {
+      "id": 59,
+      "title": "Kubernetes Fleet Operations",
+      "description": "Manage a fleet of clusters with GitOps workflows, add-on automation, and application lifecycle policies.",
+      "difficulty": "Intermediate",
+      "estimated_time": "3-4 weeks",
+      "skills": ["Azure Kubernetes Service", "FluxCD", "Helm", "Kustomize", "Crossplane"],
+      "features": [
+        "GitOps pipelines for platform add-ons",
+        "Helm releases managed via Flux",
+        "Cluster bootstrap automation using Bicep",
+        "Crossplane composite resources",
+        "Health dashboards in Azure Monitor"],
+      "roles": ["Cloud Engineer", "Cloud Architect"]
+    },
+    {
+      "id": 60,
+      "title": "Multi-Region Data Fabric",
+      "description": "Create a resilient multi-region data platform with global tables, replication policies, and failover drills.",
+      "difficulty": "Intermediate",
+      "estimated_time": "3-4 weeks",
+      "skills": ["Google Cloud", "Spanner", "Pub/Sub", "Dataflow", "Terraform"],
+      "features": [
+        "Multi-region Spanner schema design",
+        "Pub/Sub topics with Dead Letter Queues",
+        "Dataflow pipelines for replication",
+        "Chaos drills for region evacuation",
+        "Cloud Build CI for infra modules"],
+      "roles": ["Cloud Engineer", "Cloud Architect"]
+    },
+    {
+      "id": 61,
+      "title": "Edge-native Compute Mesh",
+      "description": "Engineer an edge compute mesh spanning cloud regions and edge POPs with policy-driven orchestration.",
+      "difficulty": "Advanced",
+      "estimated_time": "5-6 weeks",
+      "skills": ["Cloudflare Workers", "AWS Outposts", "Nomad", "Consul", "TypeScript"],
+      "features": [
+        "Nomad jobs across edge and region",
+        "Service discovery via Consul mesh",
+        "Latency-aware traffic steering",
+        "Policy enforcement with HashiCorp Sentinel",
+        "Terraform Cloud pipeline with drift detection"],
+      "roles": ["Cloud Engineer", "Cloud Architect"]
+    },
+    {
+      "id": 62,
+      "title": "Automation Playbook Hub",
+      "description": "Build a library of scripted automation playbooks with approval workflows and reporting for routine tasks.",
+      "difficulty": "Beginner",
+      "estimated_time": "1-2 weeks",
+      "skills": ["Ansible", "Python", "GitLab CI", "ServiceNow", "Docker"],
+      "features": [
+        "Role-based playbook catalog",
+        "Approval gates integrated with ServiceNow",
+        "Ansible execution containers",
+        "Run history audit logs",
+        "Email summaries per automation run"],
+      "roles": ["System Administrator"]
+    },
+    {
+      "id": 63,
+      "title": "Windows Hybrid Management Lab",
+      "description": "Configure a hybrid Windows management lab with Intune policies, Autopilot enrollment, and monitoring.",
+      "difficulty": "Beginner",
+      "estimated_time": "1-2 weeks",
+      "skills": ["Microsoft Intune", "Autopilot", "Azure AD", "PowerShell", "Log Analytics"],
+      "features": [
+        "Autopilot device enrollment flow",
+        "Compliance policies with remediation scripts",
+        "Update rings for Windows servicing",
+        "Log Analytics dashboards for device health",
+        "Self-service portal with access packages"],
+      "roles": ["System Administrator"]
+    },
+    {
+      "id": 64,
+      "title": "Immutable Patch Management",
+      "description": "Implement an immutable patching pipeline using image baking, canary validation, and rollback automation.",
+      "difficulty": "Intermediate",
+      "estimated_time": "3-4 weeks",
+      "skills": ["Packer", "AWS Systems Manager", "Chef InSpec", "Python", "CodePipeline"],
+      "features": [
+        "AMI baking with Packer templates",
+        "InSpec compliance tests pre-deployment",
+        "SSM State Manager for patch rollout",
+        "Canary validation via CodeDeploy",
+        "Automatic rollback and notifications"],
+      "roles": ["System Administrator"]
+    },
+    {
+      "id": 65,
+      "title": "Self-Service Access Platform",
+      "description": "Deliver a self-service access platform covering JIT elevation, audit trails, and approvals.",
+      "difficulty": "Intermediate",
+      "estimated_time": "3-4 weeks",
+      "skills": ["Okta", "HashiCorp Vault", "Go", "React", "PostgreSQL"],
+      "features": [
+        "JIT privilege elevation workflows",
+        "Justification capture and auditing",
+        "Vault-backed credential issuance",
+        "Okta Workflows integration",
+        "Compliance reporting dashboards"],
+      "roles": ["System Administrator"]
+    },
+    {
+      "id": 66,
+      "title": "Policy-driven Desktop as Code",
+      "description": "Create a declarative desktop-as-code platform with drift correction, config packaging, and analytics.",
+      "difficulty": "Advanced",
+      "estimated_time": "4-5 weeks",
+      "skills": ["Nix", "FleetDM", "Kolide", "Google Endpoint", "Go"],
+      "features": [
+        "Declarative workstation specs via Nix",
+        "Kolide device posture enforcement",
+        "FleetDM osquery packs for telemetry",
+        "Automatic drift correction pipelines",
+        "Executive dashboards for compliance"],
+      "roles": ["System Administrator"]
+    },
+    {
+      "id": 67,
+      "title": "SD-WAN Pilot Lab",
+      "description": "Set up an SD-WAN lab with simulated branches, traffic profiling, and centralized management.",
+      "difficulty": "Beginner",
+      "estimated_time": "1-2 weeks",
+      "skills": ["Cisco vManage", "SD-WAN", "NetFlow", "Docker", "Terraform"],
+      "features": [
+        "Terraform automation for vEdge deployment",
+        "Application-aware routing policies",
+        "NetFlow traffic visualizations",
+        "Centralized configuration templates",
+        "Automated config backups to Git"],
+      "roles": ["Network Engineer"]
+    },
+    {
+      "id": 68,
+      "title": "Network Observability Starter",
+      "description": "Build a network observability stack with flow logs, synthetic probes, and alerting.",
+      "difficulty": "Beginner",
+      "estimated_time": "1-2 weeks",
+      "skills": ["Grafana", "Prometheus", "OpenTelemetry", "SNMP", "Python"],
+      "features": [
+        "SNMP exporters for core devices",
+        "Synthetic probes for latency monitoring",
+        "Flow log ingestion and dashboards",
+        "Alertmanager routing with escalation",
+        "Documentation site with troubleshooting guides"],
+      "roles": ["Network Engineer"]
+    },
+    {
+      "id": 69,
+      "title": "Zero Trust Branch Blueprint",
+      "description": "Design a zero trust branch network with identity-aware proxies, segmentation, and posture checks.",
+      "difficulty": "Intermediate",
+      "estimated_time": "3-4 weeks",
+      "skills": ["Zscaler", "Cloudflare Zero Trust", "WireGuard", "Terraform", "Okta"],
+      "features": [
+        "WireGuard tunnels with device posture",
+        "Identity-aware proxies for SaaS/apps",
+        "Micro-segmentation policy library",
+        "Terraform-managed policy bundles",
+        "Real-time analytics dashboards"],
+      "roles": ["Network Engineer"]
+    },
+    {
+      "id": 70,
+      "title": "Programmable Core Network",
+      "description": "Implement a programmable core network using SRv6, network automation, and telemetry pipelines.",
+      "difficulty": "Intermediate",
+      "estimated_time": "3-4 weeks",
+      "skills": ["SRv6", "Cisco NSO", "gNMI", "Python", "InfluxDB"],
+      "features": [
+        "SRv6 lab with traffic engineering",
+        "Cisco NSO service models",
+        "gNMI streaming telemetry collectors",
+        "Automated intent verification scripts",
+        "InfluxDB dashboards for KPIs"],
+      "roles": ["Network Engineer"]
+    },
+    {
+      "id": 71,
+      "title": "Multi-cloud Transit Fabric",
+      "description": "Engineer a multi-cloud transit fabric with automated provisioning, compliance, and failover drills.",
+      "difficulty": "Advanced",
+      "estimated_time": "5-6 weeks",
+      "skills": ["Aviatrix", "Azure Virtual WAN", "AWS Transit Gateway", "Terraform", "Ansible"],
+      "features": [
+        "Automated Aviatrix controller deployment",
+        "Unified security policy across clouds",
+        "Transit gateway route inspection",
+        "Failover drills with synthetic traffic",
+        "Compliance evidence pack generation"],
+      "roles": ["Network Engineer"]
+    },
+    {
+      "id": 72,
+      "title": "Infrastructure Blueprint Generator",
+      "description": "Create a blueprint generator that outputs IaC templates, architecture diagrams, and runbooks.",
+      "difficulty": "Beginner",
+      "estimated_time": "1-2 weeks",
+      "skills": ["Python", "Mermaid", "Terraform", "Jinja2", "GitHub Actions"],
+      "features": [
+        "Parameter-driven template generation",
+        "Mermaid diagrams from Terraform plans",
+        "Automated README/runbook creation",
+        "GitHub Actions release workflow",
+        "Template validation unit tests"],
+      "roles": ["Infrastructure Engineer"]
+    },
+    {
+      "id": 73,
+      "title": "Immutable Edge Stack",
+      "description": "Deploy an immutable edge stack with image pipelines, secrets management, and monitoring.",
+      "difficulty": "Beginner",
+      "estimated_time": "1-2 weeks",
+      "skills": ["HashiCorp Packer", "Nomad", "Vault", "Prometheus", "Grafana"],
+      "features": [
+        "Image pipelines for edge workloads",
+        "Nomad job specs for edge appliances",
+        "Vault agent integration for secrets",
+        "Prometheus exporters + Grafana boards",
+        "Canary deployments with health gates"],
+      "roles": ["Infrastructure Engineer"]
+    },
+    {
+      "id": 74,
+      "title": "Infrastructure Compliance Factory",
+      "description": "Automate infrastructure compliance with policy scanning, evidence collection, and remediation queues.",
+      "difficulty": "Intermediate",
+      "estimated_time": "3-4 weeks",
+      "skills": ["Terraform Cloud", "OPA", "AWS Config", "Python", "Snowflake"],
+      "features": [
+        "Policy checks in Terraform pipelines",
+        "AWS Config rules with custom actions",
+        "Evidence lake in Snowflake",
+        "Automated remediation ticketing",
+        "Executive compliance scorecards"],
+      "roles": ["Infrastructure Engineer"]
+    },
+    {
+      "id": 75,
+      "title": "Hybrid Infrastructure Control Plane",
+      "description": "Design a hybrid control plane bridging on-prem DC and cloud with consistent policy and automation.",
+      "difficulty": "Intermediate",
+      "estimated_time": "3-4 weeks",
+      "skills": ["VMware vSphere", "AWS Outposts", "Ansible", "Consul", "Grafana"],
+      "features": [
+        "Ansible automation for on-prem provisioning",
+        "Consul service mesh across environments",
+        "Outposts resource orchestration",
+        "Unified monitoring dashboards",
+        "Runbook automation with Ansible Automation Platform"],
+      "roles": ["Infrastructure Engineer"]
+    },
+    {
+      "id": 76,
+      "title": "Digital Twin Operations Platform",
+      "description": "Create a digital twin platform modeling infrastructure assets, telemetry, and predictive maintenance.",
+      "difficulty": "Advanced",
+      "estimated_time": "5-6 weeks",
+      "skills": ["Azure Digital Twins", "Time Series Insights", "Python", "Event Hubs", "Power BI"],
+      "features": [
+        "Graph modeling of physical assets",
+        "Ingestion pipelines via Event Hubs",
+        "Predictive maintenance notebooks",
+        "Operational dashboards in Power BI",
+        "Integration with ticketing systems"],
+      "roles": ["Infrastructure Engineer"]
+    },
+    {
+      "id": 77,
+      "title": "Modern KPI Pulseboard",
+      "description": "Build a self-serve KPI dashboard with cloud warehouse connectivity, governed metrics, and alerts.",
+      "difficulty": "Beginner",
+      "estimated_time": "1-2 weeks",
+      "skills": ["dbt", "Snowflake", "SQL", "Metabase", "Sigma"],
+      "features": [
+        "Modeled metrics in dbt with tests",
+        "Metabase dashboard with alert subscriptions",
+        "Sigma exploration templates for stakeholders",
+        "Row-level security with Snowflake roles",
+        "Data documentation via dbt docs"],
+      "roles": ["Data Analyst"]
+    },
+    {
+      "id": 78,
+      "title": "Customer Journey Explorer",
+      "description": "Create a journey analytics workspace analyzing funnel drop-offs, cohort retention, and personas.",
+      "difficulty": "Beginner",
+      "estimated_time": "1-2 weeks",
+      "skills": ["Looker Studio", "BigQuery", "GA4", "SQL", "Amplitude"],
+      "features": [
+        "GA4 export to BigQuery ERD",
+        "Amplitude cohort sync into Looker Studio",
+        "Funnel templates with dynamic filters",
+        "Automated insight narratives via Looker Studio",
+        "Slack report delivery webhooks"],
+      "roles": ["Data Analyst"]
+    },
+    {
+      "id": 79,
+      "title": "Revenue Waterfall Analyzer",
+      "description": "Develop a revenue waterfall analysis toolkit with notebook automation and scenario modeling.",
+      "difficulty": "Intermediate",
+      "estimated_time": "3-4 weeks",
+      "skills": ["Python", "Pandas", "Plotly", "Hex", "Snowflake"],
+      "features": [
+        "Automated data pulls via Snowpark",
+        "Hex app with parameterized scenarios",
+        "Plotly waterfall visualizations",
+        "Driver-based sensitivity analysis",
+        "Report scheduling with Slack delivery"],
+      "roles": ["Data Analyst"]
+    },
+    {
+      "id": 80,
+      "title": "ESG Insight Command Center",
+      "description": "Launch an ESG analytics command center blending external datasets, benchmarks, and storytelling.",
+      "difficulty": "Intermediate",
+      "estimated_time": "3-4 weeks",
+      "skills": ["Power BI", "Azure Synapse", "Dataflows", "Python", "Natural Language Narratives"],
+      "features": [
+        "Dataflows for ingestion of ESG feeds",
+        "Synapse pipelines with quality checks",
+        "Power BI composite models for benchmarks",
+        "Narrative generation using Python NLG",
+        "Embedded scorecards for executives"],
+      "roles": ["Data Analyst"]
+    },
+    {
+      "id": 81,
+      "title": "Augmented Decision Assistant",
+      "description": "Deliver an augmented analytics assistant that surfaces anomalies, insights, and recommended actions.",
+      "difficulty": "Advanced",
+      "estimated_time": "4-5 weeks",
+      "skills": ["ThoughtSpot", "dbt", "Python", "OpenAI", "Airbyte"],
+      "features": [
+        "ThoughtSpot Liveboards with SpotIQ",
+        "Automated anomaly detection via Python",
+        "Natural language insight summaries",
+        "Airbyte pipelines with dbt transformations",
+        "Action tracking with integrated task queue"],
+      "roles": ["Data Analyst"]
+    },
+    {
+      "id": 82,
+      "title": "Streaming ETL Sandbox",
+      "description": "Set up a modern ETL sandbox featuring CDC ingestion, data contracts, and lakehouse storage.",
+      "difficulty": "Beginner",
+      "estimated_time": "1-2 weeks",
+      "skills": ["Kafka", "Debezium", "dbt", "Delta Lake", "Python"],
+      "features": [
+        "Debezium CDC into Kafka topics",
+        "Delta Lake bronze/silver/gold layers",
+        "dbt tests enforcing data contracts",
+        "Great Expectations validation reports",
+        "Docker Compose for local orchestration"],
+      "roles": ["Data Engineer"]
+    },
+    {
+      "id": 83,
+      "title": "Lakehouse Governance Starter",
+      "description": "Implement a governed lakehouse with Unity Catalog, lineage, and automated documentation.",
+      "difficulty": "Beginner",
+      "estimated_time": "1-2 weeks",
+      "skills": ["Databricks", "Unity Catalog", "SQL", "Python", "OpenLineage"],
+      "features": [
+        "Unity Catalog metastore policies",
+        "OpenLineage integration via Marquez",
+        "Databricks Jobs for scheduled ingestion",
+        "Parameterized Delta Live Tables",
+        "Auto-generated docs with DataHub"],
+      "roles": ["Data Engineer"]
+    },
+    {
+      "id": 84,
+      "title": "ELT Productivity Toolkit",
+      "description": "Create an ELT toolkit with modular pipelines, retryable orchestration, and code quality gates.",
+      "difficulty": "Intermediate",
+      "estimated_time": "3-4 weeks",
+      "skills": ["Prefect", "Fivetran", "BigQuery", "SQLFluff", "Terraform"],
+      "features": [
+        "Prefect deployments with parameterized flows",
+        "Fivetran connectors with Terraform",
+        "SQLFluff lint checks in CI",
+        "Metadata catalog via Datafold",
+        "Alerting through PagerDuty"],
+      "roles": ["Data Engineer"]
+    },
+    {
+      "id": 85,
+      "title": "Real-time Feature Factory",
+      "description": "Build a feature engineering platform supporting streaming features, validations, and monitoring.",
+      "difficulty": "Intermediate",
+      "estimated_time": "3-4 weeks",
+      "skills": ["Feast", "Kafka Streams", "Python", "Redis", "Great Expectations"],
+      "features": [
+        "Feast registry with streaming/online stores",
+        "Kafka Streams transformations for features",
+        "Great Expectations on feature freshness",
+        "Feature discovery UI via React",
+        "Prometheus metrics for drift detection"],
+      "roles": ["Data Engineer"]
+    },
+    {
+      "id": 86,
+      "title": "Data Mesh Platform Accelerator",
+      "description": "Engineer a data mesh accelerator delivering self-serve domains, governance, and product SLAs.",
+      "difficulty": "Advanced",
+      "estimated_time": "5-6 weeks",
+      "skills": ["Kubernetes", "Dagster", "LakeFS", "DataHub", "Terraform"],
+      "features": [
+        "Domain onboarding templates with Terraform",
+        "Dagster orchestrations per data product",
+        "LakeFS branching for safe experimentation",
+        "DataHub governance with policies",
+        "SLA monitoring dashboard for domains"],
+      "roles": ["Data Engineer"]
+    },
+    {
+      "id": 87,
+      "title": "Notebook Experiment Tracker",
+      "description": "Stand up an experiment tracking workspace integrating notebooks, lineage, and collaboration.",
+      "difficulty": "Beginner",
+      "estimated_time": "1-2 weeks",
+      "skills": ["JupyterLab", "MLflow", "Python", "Pandas", "Plotly"],
+      "features": [
+        "MLflow tracking with artifact storage",
+        "Template notebooks for exploration",
+        "Plotly dashboards for experiment comparison",
+        "Reusable data access utilities",
+        "Collaboration via JupyterLab spaces"],
+      "roles": ["Data Scientist"]
+    },
+    {
+      "id": 88,
+      "title": "Rapid Prototyping Sandbox",
+      "description": "Create a sandbox for rapid model prototyping with automated data profiling and deployment hooks.",
+      "difficulty": "Beginner",
+      "estimated_time": "1-2 weeks",
+      "skills": ["Python", "Pandas Profiling", "Streamlit", "scikit-learn", "Docker"],
+      "features": [
+        "Auto data profiling via ydata-profiling",
+        "Streamlit UI for experimentation",
+        "Model packaging with Docker",
+        "Experiment metadata logging",
+        "REST endpoints generated with FastAPI"],
+      "roles": ["Data Scientist"]
+    },
+    {
+      "id": 89,
+      "title": "Responsible AI Evaluation Suite",
+      "description": "Develop an evaluation suite for bias, fairness, and explainability with automated reporting.",
+      "difficulty": "Intermediate",
+      "estimated_time": "3-4 weeks",
+      "skills": ["Python", "Evidently", "SHAP", "TensorFlow", "Weights & Biases"],
+      "features": [
+        "Bias dashboards via Evidently",
+        "Explainability notebooks with SHAP",
+        "Model evaluation pipelines in TensorFlow",
+        "Weights & Biases experiment tracking",
+        "Stakeholder summary PDFs"],
+      "roles": ["Data Scientist"]
+    },
+    {
+      "id": 90,
+      "title": "Forecast Ops Platform",
+      "description": "Build a collaborative forecasting operations platform with scenario planning and drift alerts.",
+      "difficulty": "Intermediate",
+      "estimated_time": "3-4 weeks",
+      "skills": ["Prophet", "Darts", "Airflow", "Superset", "Python"],
+      "features": [
+        "Airflow-managed forecast pipelines",
+        "Scenario comparison UI in Superset",
+        "Model ensembling with Darts",
+        "Drift alerts via custom Airflow sensors",
+        "APIs for downstream consumption"],
+      "roles": ["Data Scientist"]
+    },
+    {
+      "id": 91,
+      "title": "Generative Insights Workbench",
+      "description": "Launch a generative AI workbench to synthesize insights, generate narratives, and automate playbooks.",
+      "difficulty": "Advanced",
+      "estimated_time": "4-5 weeks",
+      "skills": ["LangChain", "Pinecone", "LlamaIndex", "TypeScript", "Weights & Biases"],
+      "features": [
+        "Vector search over analytics notebooks",
+        "Prompt templates for insight generation",
+        "Guardrails with LlamaIndex evaluations",
+        "Human-in-the-loop feedback logging",
+        "Playbook automation with Zapier"],
+      "roles": ["Data Scientist"]
+    },
+    {
+      "id": 92,
+      "title": "BI Semantic Layer Starter",
+      "description": "Construct a semantic layer with governed dimensions, metrics, and multi-tool connectivity.",
+      "difficulty": "Beginner",
+      "estimated_time": "1-2 weeks",
+      "skills": ["Cube.js", "SQL", "dbt", "PostgreSQL", "Looker"],
+      "features": [
+        "Cube.js semantic definitions for metrics",
+        "dbt models enforcing naming conventions",
+        "PostgreSQL warehouse with seed data",
+        "Looker connections with governed explores",
+        "Embedded metric docs portal"],
+      "roles": ["Business Intelligence Developer"]
+    },
+    {
+      "id": 93,
+      "title": "Interactive Executive Scorecards",
+      "description": "Deliver an executive scorecard experience with guided navigation, narrative insights, and what-if.",
+      "difficulty": "Beginner",
+      "estimated_time": "1-2 weeks",
+      "skills": ["Tableau", "Tableau Prep", "Snowflake", "SQL", "Python"],
+      "features": [
+        "Tableau Prep flows for curated datasets",
+        "Story-driven dashboards with navigation",
+        "Python TabPy scripts for what-if analysis",
+        "Data-driven alerts to stakeholders",
+        "Usage analytics dashboard"],
+      "roles": ["Business Intelligence Developer"]
+    },
+    {
+      "id": 94,
+      "title": "Narrative BI Automation",
+      "description": "Implement a narrative BI automation pipeline producing slide decks and commentary from metrics.",
+      "difficulty": "Intermediate",
+      "estimated_time": "3-4 weeks",
+      "skills": ["Power BI", "Azure Functions", "Python", "OpenAI", "SharePoint"],
+      "features": [
+        "Paginated reports exported into PPT",
+        "Azure Functions generating narratives",
+        "OpenAI prompts tuned for business tone",
+        "SharePoint delivery with permissions",
+        "Feedback capture form for improvements"],
+      "roles": ["Business Intelligence Developer"]
+    },
+    {
+      "id": 95,
+      "title": "Composable Metrics Catalog",
+      "description": "Build a composable metrics catalog with lineage, governance workflows, and self-service APIs.",
+      "difficulty": "Intermediate",
+      "estimated_time": "3-4 weeks",
+      "skills": ["MetriQL", "GraphQL", "Hasura", "dbt", "Kong"],
+      "features": [
+        "Metrics definitions managed in MetriQL",
+        "GraphQL gateway via Hasura",
+        "dbt exposures for lineage",
+        "Approval workflows using Hasura actions",
+        "API access controls via Kong"],
+      "roles": ["Business Intelligence Developer"]
+    },
+    {
+      "id": 96,
+      "title": "Adaptive BI Experience Platform",
+      "description": "Create an adaptive BI delivery platform with personalization, search, and headless embedding.",
+      "difficulty": "Advanced",
+      "estimated_time": "4-5 weeks",
+      "skills": ["ThoughtSpot", "Looker", "Next.js", "Elastic", "TypeScript"],
+      "features": [
+        "Headless BI embedding via ThoughtSpot Everywhere",
+        "Looker semantic layer federation",
+        "Personalized search powered by Elastic",
+        "Feature flags for experience experiments",
+        "Engagement analytics for content"],
+      "roles": ["Business Intelligence Developer"]
+    },
+    {
+      "id": 97,
+      "title": "SOC Automation Starter",
+      "description": "Stand up a SOC automation lab with enrichment playbooks, case management, and reporting.",
+      "difficulty": "Beginner",
+      "estimated_time": "1-2 weeks",
+      "skills": ["SIEM", "Python", "TheHive", "MISP", "Slack"],
+      "features": [
+        "SIEM ingestion of sample logs",
+        "MISP enrichment playbooks with Cortex",
+        "Case templates in TheHive",
+        "Slack alerting for triage",
+        "Daily SOC health report automation"],
+      "roles": ["Security Analyst", "SOC Analyst"]
+    },
+    {
+      "id": 98,
+      "title": "Detection Engineering Lab",
+      "description": "Create a detection engineering lab with adversary simulations, rule versioning, and validation.",
+      "difficulty": "Beginner",
+      "estimated_time": "1-2 weeks",
+      "skills": ["Sigma", "Elastic SIEM", "Atomic Red Team", "Python", "GitHub Actions"],
+      "features": [
+        "Atomic Red Team scenario scheduler",
+        "Sigma rule authoring with CI linting",
+        "Detection validation pipelines",
+        "Elastic SIEM dashboards for coverage",
+        "Detection backlog Kanban board"],
+      "roles": ["Security Analyst", "SOC Analyst"]
+    },
+    {
+      "id": 99,
+      "title": "Threat Hunting Workbench",
+      "description": "Develop a threat hunting workbench with hypothesis templates, hunt automation, and metrics.",
+      "difficulty": "Intermediate",
+      "estimated_time": "3-4 weeks",
+      "skills": ["Azure Sentinel", "KQL", "Jupyter", "Sigma", "Python"],
+      "features": [
+        "Hunt execution notebooks with MSTICPy",
+        "Reusable KQL hunting queries",
+        "Hypothesis library with Sigma crosswalks",
+        "Metrics dashboard for hunt success",
+        "Automated evidence collection workflows"],
+      "roles": ["Security Analyst", "SOC Analyst"]
+    },
+    {
+      "id": 100,
+      "title": "Insider Threat Response Simulator",
+      "description": "Build a simulator for insider threat scenarios with UEBA analytics, workflows, and reporting.",
+      "difficulty": "Intermediate",
+      "estimated_time": "3-4 weeks",
+      "skills": ["UEBA", "Splunk", "Python", "Airflow", "Grafana"],
+      "features": [
+        "Synthetic insider activity generator",
+        "UEBA analytics scoring",
+        "Response workflows with Airflow",
+        "Grafana board for risk trends",
+        "Stakeholder post-incident reporting"],
+      "roles": ["Security Analyst", "SOC Analyst"]
+    },
+    {
+      "id": 101,
+      "title": "Autonomous SOC Orchestrator",
+      "description": "Engineer an autonomous SOC orchestrator with machine learning triage, SOAR, and resilience testing.",
+      "difficulty": "Advanced",
+      "estimated_time": "4-5 weeks",
+      "skills": ["SOAR", "Cortex XSOAR", "Python", "ML", "Chaos Engineering"],
+      "features": [
+        "ML-based alert deduplication",
+        "SOAR playbooks for Tier 1 triage",
+        "Chaos drills for SOC tooling",
+        "Metrics on MTTR and containment",
+        "Playbook versioning with Git"],
+      "roles": ["Security Analyst", "SOC Analyst"]
+    },
+    {
+      "id": 102,
+      "title": "Offensive Toolchain Baseline",
+      "description": "Assemble a vetted offensive toolchain with safe environments, reporting templates, and automation.",
+      "difficulty": "Beginner",
+      "estimated_time": "1-2 weeks",
+      "skills": ["Kali Linux", "Metasploit", "Nmap", "Markdown", "Docker"],
+      "features": [
+        "Dockerized offensive tooling lab",
+        "Recon automation scripts",
+        "Report templates with Markdown",
+        "Engagement scoping checklist",
+        "Evidence collection best practices"],
+      "roles": ["Penetration Tester", "Ethical Hacker"]
+    },
+    {
+      "id": 103,
+      "title": "Cloud Pentest Playground",
+      "description": "Create a cloud-native pentest playground with vulnerable targets, guardrails, and attack chains.",
+      "difficulty": "Beginner",
+      "estimated_time": "1-2 weeks",
+      "skills": ["AWS", "IAM", "Lambda", "Terraform", "Python"],
+      "features": [
+        "Terraform templates for vulnerable stacks",
+        "IAM misconfiguration scenarios",
+        "Serverless exploitation paths",
+        "Automated cleanup scripts",
+        "Walkthrough guides for attack chains"],
+      "roles": ["Penetration Tester", "Ethical Hacker"]
+    },
+    {
+      "id": 104,
+      "title": "Purple Team Adversary Emulator",
+      "description": "Build a purple team adversary emulation platform with alignment to MITRE ATT&CK and telemetry.",
+      "difficulty": "Intermediate",
+      "estimated_time": "3-4 weeks",
+      "skills": ["Caldera", "MITRE ATT&CK", "Sigma", "Python", "Elastic"],
+      "features": [
+        "Caldera operation playbooks",
+        "Detection mapping to Sigma rules",
+        "Telemetry dashboards for coverage",
+        "Joint purple team exercise planner",
+        "Automated report generation"],
+      "roles": ["Penetration Tester", "Ethical Hacker"]
+    },
+    {
+      "id": 105,
+      "title": "Application Security Lab",
+      "description": "Develop an application security lab with modern stacks, exploit scenarios, and remediation guides.",
+      "difficulty": "Intermediate",
+      "estimated_time": "3-4 weeks",
+      "skills": ["OWASP", "Node.js", "GraphQL", "Burp Suite", "Docker"],
+      "features": [
+        "Deliberately insecure modern app",
+        "Hands-on exploit walkthroughs",
+        "Burp Suite automation snippets",
+        "Secure coding remediation examples",
+        "CI scanning integration"],
+      "roles": ["Penetration Tester", "Ethical Hacker"]
+    },
+    {
+      "id": 106,
+      "title": "Red Team Operations Platform",
+      "description": "Engineer a red team operations platform with campaign orchestration, OPSEC, and reporting.",
+      "difficulty": "Advanced",
+      "estimated_time": "5-6 weeks",
+      "skills": ["C2 Frameworks", "Go", "Azure", "OPSEC", "Elastic"],
+      "features": [
+        "Customizable C2 infrastructure",
+        "OPSEC monitoring dashboards",
+        "Campaign orchestration workflows",
+        "Blue team collaboration portal",
+        "Executive-ready engagement reporting"],
+      "roles": ["Penetration Tester", "Ethical Hacker"]
+    },
+    {
+      "id": 107,
+      "title": "Security Architecture Blueprint",
+      "description": "Create a security architecture blueprint library with reusable patterns, controls, and diagrams.",
+      "difficulty": "Beginner",
+      "estimated_time": "1-2 weeks",
+      "skills": ["Security Architecture", "Diagrams.net", "NIST CSF", "Markdown", "Confluence"],
+      "features": [
+        "Pattern templates for common architectures",
+        "Control mappings to NIST CSF",
+        "Diagram library with reusable components",
+        "Decision log for trade-offs",
+        "Stakeholder briefing deck"],
+      "roles": ["Security Engineer"]
+    },
+    {
+      "id": 108,
+      "title": "Security-as-Code Starter",
+      "description": "Implement security-as-code patterns with policy libraries, CI integration, and drift detection.",
+      "difficulty": "Beginner",
+      "estimated_time": "1-2 weeks",
+      "skills": ["Terraform", "OPA", "Checkov", "GitHub Actions", "Python"],
+      "features": [
+        "Policy library with OPA/Regula",
+        "Checkov scanning pipeline",
+        "Drift detection alerts",
+        "Exception workflow automation",
+        "Security scorecard dashboard"],
+      "roles": ["Security Engineer"]
+    },
+    {
+      "id": 109,
+      "title": "Zero Trust Reference Implementation",
+      "description": "Deliver a zero trust reference implementation with device posture, microsegmentation, and analytics.",
+      "difficulty": "Intermediate",
+      "estimated_time": "3-4 weeks",
+      "skills": ["Zero Trust", "Zscaler", "Okta", "CrowdStrike", "Terraform"],
+      "features": [
+        "Device posture enforcement pipeline",
+        "Microsegmentation lab with policies",
+        "Identity-aware proxy configuration",
+        "Telemetry integration with SIEM",
+        "Adoption metrics dashboard"],
+      "roles": ["Security Engineer"]
+    },
+    {
+      "id": 110,
+      "title": "Secure SDLC Enablement Hub",
+      "description": "Build a secure SDLC enablement hub with guardrails, threat modeling, and developer education.",
+      "difficulty": "Intermediate",
+      "estimated_time": "3-4 weeks",
+      "skills": ["Threat Modeling", "Snyk", "GitHub Advanced Security", "Miro", "Next.js"],
+      "features": [
+        "Threat modeling templates with Miro",
+        "Secure coding training modules",
+        "SAST/DAST pipelines with Snyk",
+        "Security champions portal",
+        "Risk exception workflow"],
+      "roles": ["Security Engineer"]
+    },
+    {
+      "id": 111,
+      "title": "Security Telemetry Platform",
+      "description": "Engineer a unified security telemetry platform consolidating logs, detections, and enrichment.",
+      "difficulty": "Advanced",
+      "estimated_time": "4-5 weeks",
+      "skills": ["Elastic", "Kafka", "Python", "Sigma", "Grafana"],
+      "features": [
+        "Unified ingestion pipelines",
+        "Detection-as-code framework",
+        "Enrichment microservices",
+        "Visualization suite in Grafana",
+        "Reliability SLAs and dashboards"],
+      "roles": ["Security Engineer"]
+    },
+    {
+      "id": 112,
+      "title": "Identity Governance Starter",
+      "description": "Set up an identity governance starter with role mining, certification campaigns, and recertification.",
+      "difficulty": "Beginner",
+      "estimated_time": "1-2 weeks",
+      "skills": ["SailPoint", "IdentityNow", "Power BI", "SQL", "Python"],
+      "features": [
+        "Role mining analysis dashboards",
+        "Certification campaign templates",
+        "Policy violations reporting",
+        "Automated recertification reminders",
+        "Analytics on campaign completion"],
+      "roles": ["IAM Specialist"]
+    },
+    {
+      "id": 113,
+      "title": "Access Review Automation Lab",
+      "description": "Create an access review automation lab integrating HR systems, workflows, and evidence packs.",
+      "difficulty": "Beginner",
+      "estimated_time": "1-2 weeks",
+      "skills": ["Okta", "Workday", "Zapier", "Python", "Google Workspace"],
+      "features": [
+        "Automated joiner/mover/leaver workflows",
+        "Quarterly access review scheduling",
+        "Evidence pack generation",
+        "Exception handling with approval",
+        "Dashboard for certification progress"],
+      "roles": ["IAM Specialist"]
+    },
+    {
+      "id": 114,
+      "title": "Privileged Access Analytics",
+      "description": "Build a privileged access analytics platform detecting anomalies, session recordings, and risk.",
+      "difficulty": "Intermediate",
+      "estimated_time": "3-4 weeks",
+      "skills": ["CyberArk", "ELK", "Python", "Machine Learning", "Grafana"],
+      "features": [
+        "Session recording ingestion",
+        "Anomaly detection on privileged usage",
+        "Risk scoring dashboards",
+        "Alert workflows integrated with PagerDuty",
+        "Compliance evidence exports"],
+      "roles": ["IAM Specialist"]
+    },
+    {
+      "id": 115,
+      "title": "Federated Identity Blueprint",
+      "description": "Deliver a federated identity blueprint with multi-cloud SSO, adaptive MFA, and auditing.",
+      "difficulty": "Intermediate",
+      "estimated_time": "3-4 weeks",
+      "skills": ["Azure AD", "AWS IAM Identity Center", "SAML", "OIDC", "Terraform"],
+      "features": [
+        "SSO integrations across SaaS and cloud",
+        "Adaptive MFA policies",
+        "Provisioning automation via SCIM",
+        "Access review workflows",
+        "Audit logging pipelines"],
+      "roles": ["IAM Specialist"]
+    },
+    {
+      "id": 116,
+      "title": "Identity Threat Detection Platform",
+      "description": "Engineer an identity threat detection platform monitoring anomalies, credential abuse, and signals.",
+      "difficulty": "Advanced",
+      "estimated_time": "4-5 weeks",
+      "skills": ["Microsoft Defender for Identity", "Okta", "Snowflake", "Python", "Sigma"],
+      "features": [
+        "Signal ingestion into Snowflake",
+        "Custom detections with Sigma",
+        "Behavioral baselining with Python",
+        "Automated response via Okta Workflows",
+        "Risk dashboards for leadership"],
+      "roles": ["IAM Specialist"]
+    },
+    {
+      "id": 117,
+      "title": "Security Capability Roadmap",
+      "description": "Create a security capability roadmap portal aligning initiatives, maturity scores, and dependencies.",
+      "difficulty": "Beginner",
+      "estimated_time": "1-2 weeks",
+      "skills": ["Security Architecture", "Notion", "Power BI", "Excel", "Risk Management"],
+      "features": [
+        "Capability inventory with maturity scoring",
+        "Dependencies visualization",
+        "Risk-based prioritization dashboard",
+        "Roadmap presentation templates",
+        "Stakeholder feedback capture"],
+      "roles": ["Cybersecurity Architect"]
+    },
+    {
+      "id": 118,
+      "title": "Secure Cloud Landing Zone",
+      "description": "Design a secure cloud landing zone with guardrails, compliance packs, and automation.",
+      "difficulty": "Beginner",
+      "estimated_time": "1-2 weeks",
+      "skills": ["AWS Control Tower", "Azure CAF", "Terraform", "Cloud Custodian", "Security Hub"],
+      "features": [
+        "Landing zone baseline modules",
+        "Cloud Custodian policy sets",
+        "Security Hub compliance dashboards",
+        "Automated account vending",
+        "Documentation site for patterns"],
+      "roles": ["Cybersecurity Architect"]
+    },
+    {
+      "id": 119,
+      "title": "Resilience Architecture Simulator",
+      "description": "Develop a resilience architecture simulator performing tabletop exercises and impact modeling.",
+      "difficulty": "Intermediate",
+      "estimated_time": "3-4 weeks",
+      "skills": ["AWS Resilience Hub", "Azure Chaos Studio", "Python", "Grafana", "Tabletop"],
+      "features": [
+        "Scenario library aligned to threats",
+        "Impact modeling dashboards",
+        "Automation of tabletop scheduling",
+        "Chaos experiments integration",
+        "Executive readiness scoring"],
+      "roles": ["Cybersecurity Architect"]
+    },
+    {
+      "id": 120,
+      "title": "Security Architecture Decision Records",
+      "description": "Implement a decision record system with traceability, threat analysis, and architecture evidence.",
+      "difficulty": "Intermediate",
+      "estimated_time": "3-4 weeks",
+      "skills": ["ADR", "Markdown", "Git", "Threat Modeling", "Confluence"],
+      "features": [
+        "ADR templates with threat considerations",
+        "Git-backed decision repository",
+        "Confluence portal with search",
+        "Risk acceptance workflows",
+        "Metrics on decisions and outcomes"],
+      "roles": ["Cybersecurity Architect"]
+    },
+    {
+      "id": 121,
+      "title": "Global Security Reference Architecture",
+      "description": "Engineer a global reference architecture covering IAM, network, data, and application security domains.",
+      "difficulty": "Advanced",
+      "estimated_time": "5-6 weeks",
+      "skills": ["Security Architecture", "TOGAF", "Zero Trust", "Data Security", "Automation"],
+      "features": [
+        "Domain reference models",
+        "Zero trust alignment matrix",
+        "Data security classification framework",
+        "Automation roadmap with tooling",
+        "Executive governance playbook"],
+      "roles": ["Cybersecurity Architect"]
+    },
+    {
+      "id": 122,
+      "title": "AutoML Experimentation Kit",
+      "description": "Build a beginner-friendly AutoML workspace with reproducible experiments and benchmarking.",
+      "difficulty": "Beginner",
+      "estimated_time": "1-2 weeks",
+      "skills": ["Python", "scikit-learn", "AutoGluon", "MLflow", "Streamlit"],
+      "features": [
+        "AutoML pipelines with AutoGluon",
+        "Experiment tracking via MLflow",
+        "Streamlit dashboard for comparisons",
+        "Dataset versioning with DVC",
+        "Benchmark reports exported to PDF"],
+      "roles": ["Machine Learning Engineer"]
+    },
+    {
+      "id": 123,
+      "title": "Vector Search Playground",
+      "description": "Create a vector search playground exploring embeddings, ANN indexes, and evaluation.",
+      "difficulty": "Beginner",
+      "estimated_time": "1-2 weeks",
+      "skills": ["Python", "Sentence Transformers", "FAISS", "Jupyter", "Docker"],
+      "features": [
+        "Embedding generation notebooks",
+        "FAISS index experimentation",
+        "Evaluation metrics dashboard",
+        "API wrapper using FastAPI",
+        "Containerized local setup"],
+      "roles": ["Machine Learning Engineer"]
+    },
+    {
+      "id": 124,
+      "title": "Explainable Model Hub",
+      "description": "Develop an explainable model hub with modular pipelines, SHAP analyses, and governance.",
+      "difficulty": "Intermediate",
+      "estimated_time": "3-4 weeks",
+      "skills": ["Python", "LightGBM", "SHAP", "Evidently", "FastAPI"],
+      "features": [
+        "Pipeline templates for tabular models",
+        "SHAP dashboard for feature importance",
+        "Evidently reports for drift monitoring",
+        "Model registry with approval workflow",
+        "API endpoints for explainability requests"],
+      "roles": ["Machine Learning Engineer"]
+    },
+    {
+      "id": 125,
+      "title": "Real-time Recommendations Engine",
+      "description": "Build a real-time recommendation system with streaming features, bandits, and A/B testing.",
+      "difficulty": "Intermediate",
+      "estimated_time": "3-4 weeks",
+      "skills": ["PySpark", "Kafka", "Feast", "Redis", "MLflow"],
+      "features": [
+        "Streaming feature store with Feast",
+        "Contextual bandit algorithm implementation",
+        "Online inference service with Redis",
+        "A/B test orchestration dashboards",
+        "Canary deployment workflow"],
+      "roles": ["Machine Learning Engineer"]
+    },
+    {
+      "id": 126,
+      "title": "Multi-cloud Model Serving Grid",
+      "description": "Engineer a multi-cloud serving grid with hardware acceleration, observability, and autoscaling.",
+      "difficulty": "Advanced",
+      "estimated_time": "5-6 weeks",
+      "skills": ["KServe", "NVIDIA Triton", "Terraform", "Prometheus", "Istio"],
+      "features": [
+        "Hybrid GPU/CPU serving templates",
+        "Inference autoscaling with KServe",
+        "Cross-cloud traffic management via Istio",
+        "Latency/throughput dashboards",
+        "Shadow deployment testing harness"],
+      "roles": ["Machine Learning Engineer"]
+    },
+    {
+      "id": 127,
+      "title": "Prompt Engineering Cookbook",
+      "description": "Compile a cookbook of prompt engineering patterns with evaluation, guardrails, and testing.",
+      "difficulty": "Beginner",
+      "estimated_time": "1-2 weeks",
+      "skills": ["Prompt Engineering", "LangChain", "OpenAI", "TypeScript", "Jest"],
+      "features": [
+        "Prompt templates for common tasks",
+        "Evaluation harness with LangChain",
+        "Guardrail policies for safety",
+        "Unit tests for prompt regressions",
+        "Documentation site with best practices"],
+      "roles": ["AI Engineer", "Prompt Engineer"]
+    },
+    {
+      "id": 128,
+      "title": "ChatGPT Plugin Sandbox",
+      "description": "Build a sandbox for rapid prototyping of ChatGPT plugins with monitoring and analytics.",
+      "difficulty": "Beginner",
+      "estimated_time": "1-2 weeks",
+      "skills": ["Next.js", "OpenAI", "Prisma", "PostHog", "Vercel"],
+      "features": [
+        "Plugin manifest generator",
+        "Prisma-backed data layer",
+        "Usage analytics via PostHog",
+        "Feedback capture from users",
+        "One-click deploy workflows"],
+      "roles": ["AI Engineer", "Prompt Engineer"]
+    },
+    {
+      "id": 129,
+      "title": "Retrieval-Augmented Agent Studio",
+      "description": "Create an agent studio leveraging RAG pipelines, tool orchestration, and evaluations.",
+      "difficulty": "Intermediate",
+      "estimated_time": "3-4 weeks",
+      "skills": ["LangChain", "Pinecone", "Supabase", "TypeScript", "Playwright"],
+      "features": [
+        "RAG pipelines with hybrid search",
+        "Tool orchestration via LangChain agents",
+        "Evaluation suite using Playwright",
+        "Vector store management dashboard",
+        "Usage metering and billing hooks"],
+      "roles": ["AI Engineer", "Prompt Engineer"]
+    },
+    {
+      "id": 130,
+      "title": "AI Governance Command Center",
+      "description": "Develop an AI governance portal managing prompts, compliance, and human review queues.",
+      "difficulty": "Intermediate",
+      "estimated_time": "3-4 weeks",
+      "skills": ["Next.js", "MongoDB", "OpenAI", "Temporal.io", "Tailwind CSS"],
+      "features": [
+        "Prompt library with approval workflows",
+        "Usage policy enforcement via Temporal",
+        "Human review queue for escalations",
+        "Audit trail dashboards",
+        "Playbooks for incident response"],
+      "roles": ["AI Engineer", "Prompt Engineer"]
+    },
+    {
+      "id": 131,
+      "title": "Multimodal Agent Platform",
+      "description": "Engineer a multimodal agent platform handling text, vision, and speech with evaluation.",
+      "difficulty": "Advanced",
+      "estimated_time": "5-6 weeks",
+      "skills": ["OpenAI", "Whisper", "CLIP", "LangSmith", "gRPC"],
+      "features": [
+        "Multimodal input processing pipeline",
+        "Tool invocation layer with gRPC",
+        "Evaluation harness via LangSmith",
+        "Latency-aware routing decisions",
+        "Observability dashboards for modality usage"],
+      "roles": ["AI Engineer", "Prompt Engineer"]
+    },
+    {
+      "id": 132,
+      "title": "CI/CD for Models Starter",
+      "description": "Set up a CI/CD starter for ML models with testing, packaging, and deployment automation.",
+      "difficulty": "Beginner",
+      "estimated_time": "1-2 weeks",
+      "skills": ["GitHub Actions", "Docker", "pytest", "MLflow", "Terraform"],
+      "features": [
+        "Model unit/integration test templates",
+        "Dockerized training and inference",
+        "MLflow model registry integration",
+        "Terraform scripts for deployment targets",
+        "Automated rollback pipelines"],
+      "roles": ["MLOps Engineer"]
+    },
+    {
+      "id": 133,
+      "title": "Feature Store Quickstart",
+      "description": "Build a feature store quickstart with offline/online parity, monitoring, and cataloging.",
+      "difficulty": "Beginner",
+      "estimated_time": "1-2 weeks",
+      "skills": ["Feast", "BigQuery", "Redis", "Great Expectations", "Prefect"],
+      "features": [
+        "Offline to online sync pipelines",
+        "Data quality checks with Great Expectations",
+        "Prefect orchestration flows",
+        "Feature catalog portal",
+        "Usage metrics reports"],
+      "roles": ["MLOps Engineer"]
+    },
+    {
+      "id": 134,
+      "title": "Model Monitoring Control Tower",
+      "description": "Create a model monitoring control tower aggregating drift, performance, and alerts.",
+      "difficulty": "Intermediate",
+      "estimated_time": "3-4 weeks",
+      "skills": ["WhyLabs", "Evidently", "Grafana", "Kafka", "Python"],
+      "features": [
+        "Streaming capture of inference payloads",
+        "WhyLabs monitors for drift",
+        "Custom alerts routed to PagerDuty",
+        "Grafana dashboards per model",
+        "Lifecycle SLA tracking"],
+      "roles": ["MLOps Engineer"]
+    },
+    {
+      "id": 135,
+      "title": "Model Lifecycle Orchestrator",
+      "description": "Develop an orchestrator managing training, validation, and deployment using pipelines.",
+      "difficulty": "Intermediate",
+      "estimated_time": "3-4 weeks",
+      "skills": ["Kubeflow Pipelines", "TensorFlow", "Argo Workflows", "Seldon", "GitOps"],
+      "features": [
+        "Pipeline templates with Kubeflow",
+        "Automated canary deployments via Seldon",
+        "GitOps integration for manifests",
+        "Model lineage tracking",
+        "Cost monitoring for training runs"],
+      "roles": ["MLOps Engineer"]
+    },
+    {
+      "id": 136,
+      "title": "Edge AI Operations Platform",
+      "description": "Engineer an edge AI operations platform with OTA updates, telemetry, and compliance.",
+      "difficulty": "Advanced",
+      "estimated_time": "5-6 weeks",
+      "skills": ["NVIDIA Jetson", "Azure IoT Edge", "TensorRT", "Grafana", "Terraform"],
+      "features": [
+        "Edge model optimization with TensorRT",
+        "OTA deployment workflows",
+        "Telemetry ingestion to Azure IoT Hub",
+        "Compliance reporting dashboards",
+        "Failover strategies for offline nodes"],
+      "roles": ["MLOps Engineer"]
+    },
+    {
+      "id": 137,
+      "title": "WebXR Design Sprint",
+      "description": "Run a WebXR design sprint prototyping immersive scenes, interactions, and usability tests.",
+      "difficulty": "Beginner",
+      "estimated_time": "1-2 weeks",
+      "skills": ["A-Frame", "Three.js", "WebXR", "Figma", "Vite"],
+      "features": [
+        "Rapid scene prototyping workflow",
+        "Interaction patterns library",
+        "Usability test playbook",
+        "Asset pipeline from Figma to WebXR",
+        "Performance profiling checklist"],
+      "roles": ["AR/VR Developer"]
+    },
+    {
+      "id": 138,
+      "title": "Unity AR Commerce Demo",
+      "description": "Develop a Unity-powered AR commerce demo with image tracking, catalogs, and analytics.",
+      "difficulty": "Beginner",
+      "estimated_time": "1-2 weeks",
+      "skills": ["Unity", "AR Foundation", "C#", "Firebase", "Analytics"],
+      "features": [
+        "Image tracking for product placement",
+        "Product catalog management",
+        "In-app analytics dashboard",
+        "Purchase intent experiments",
+        "Cross-platform build pipeline"],
+      "roles": ["AR/VR Developer"]
+    },
+    {
+      "id": 139,
+      "title": "Mixed Reality Collaboration Hub",
+      "description": "Create a mixed reality hub enabling shared workspaces, spatial audio, and annotations.",
+      "difficulty": "Intermediate",
+      "estimated_time": "3-4 weeks",
+      "skills": ["Unity", "Photon Fusion", "HoloLens", "Azure Spatial Anchors", "C#"],
+      "features": [
+        "Shared spatial anchors for collaboration",
+        "Spatial audio chat rooms",
+        "Annotation tools with persistence",
+        "Session recording for playback",
+        "Admin console for room management"],
+      "roles": ["AR/VR Developer"]
+    },
+    {
+      "id": 140,
+      "title": "VR Training Analytics Suite",
+      "description": "Build a VR training suite with motion capture analytics, adaptive scenarios, and LMS integration.",
+      "difficulty": "Intermediate",
+      "estimated_time": "3-4 weeks",
+      "skills": ["Unreal Engine", "Blueprints", "OpenXR", "AWS", "Python"],
+      "features": [
+        "Scenario authoring tools",
+        "Motion analytics dashboards",
+        "Adaptive difficulty engine",
+        "LMS integration via xAPI",
+        "Cloud sync for progress"],
+      "roles": ["AR/VR Developer"]
+    },
+    {
+      "id": 141,
+      "title": "Spatial Computing Operations Platform",
+      "description": "Engineer a spatial computing platform managing deployments, analytics, and safety checks.",
+      "difficulty": "Advanced",
+      "estimated_time": "5-6 weeks",
+      "skills": ["visionOS", "Swift", "RealityKit", "Grafana", "Kubernetes"],
+      "features": [
+        "CI/CD for spatial app bundles",
+        "Safety zone enforcement dashboards",
+        "Usage analytics with Grafana",
+        "Content gating by role",
+        "Device fleet management scripts"],
+      "roles": ["AR/VR Developer"]
+    },
+    {
+      "id": 142,
+      "title": "Smart Contract Workshop",
+      "description": "Deliver a workshop series building smart contracts with testing, deployment, and audits.",
+      "difficulty": "Beginner",
+      "estimated_time": "1-2 weeks",
+      "skills": ["Solidity", "Hardhat", "TypeScript", "Ether.js", "OpenZeppelin"],
+      "features": [
+        "Step-by-step guided exercises",
+        "Automated testing harness",
+        "OpenZeppelin contract templates",
+        "Deployment scripts to testnets",
+        "Security checklist and linting"],
+      "roles": ["Blockchain Developer"]
+    },
+    {
+      "id": 143,
+      "title": "Web3 Wallet Experience Lab",
+      "description": "Create a Web3 wallet experience lab focusing on onboarding, UX testing, and analytics.",
+      "difficulty": "Beginner",
+      "estimated_time": "1-2 weeks",
+      "skills": ["React", "wagmi", "RainbowKit", "Supabase", "Analytics"],
+      "features": [
+        "Wallet onboarding experiments",
+        "Transaction simulation sandbox",
+        "Usage analytics dashboard",
+        "Feedback capture loops",
+        "Security education microcopy"],
+      "roles": ["Blockchain Developer"]
+    },
+    {
+      "id": 144,
+      "title": "Tokenized Supply Chain Tracker",
+      "description": "Develop a tokenized supply chain tracker with asset provenance, compliance, and dashboards.",
+      "difficulty": "Intermediate",
+      "estimated_time": "3-4 weeks",
+      "skills": ["Hyperledger Fabric", "TypeScript", "GraphQL", "React", "PostgreSQL"],
+      "features": [
+        "Asset token definitions",
+        "Chaincode for provenance tracking",
+        "GraphQL API for stakeholders",
+        "Compliance reporting dashboards",
+        "Event-driven notifications"],
+      "roles": ["Blockchain Developer"]
+    },
+    {
+      "id": 145,
+      "title": "DeFi Risk Analytics Platform",
+      "description": "Build a DeFi analytics platform monitoring protocol risk, liquidity, and automated alerts.",
+      "difficulty": "Intermediate",
+      "estimated_time": "3-4 weeks",
+      "skills": ["Python", "Dune Analytics", "Subgraphs", "Superset", "Airflow"],
+      "features": [
+        "Blockchain data ingestion pipelines",
+        "Protocol health dashboards",
+        "Alerting on risk thresholds",
+        "Scenario modeling notebooks",
+        "API for downstream consumers"],
+      "roles": ["Blockchain Developer"]
+    },
+    {
+      "id": 146,
+      "title": "Cross-chain Governance Fabric",
+      "description": "Engineer a cross-chain governance fabric supporting voting, identity, and interoperability.",
+      "difficulty": "Advanced",
+      "estimated_time": "5-6 weeks",
+      "skills": ["Cosmos SDK", "Polkadot", "Rust", "Zero Knowledge", "Kubernetes"],
+      "features": [
+        "Inter-chain messaging modules",
+        "Decentralized identity integration",
+        "Zero-knowledge proof-based voting",
+        "Governance analytics dashboards",
+        "Automated upgrade workflows"],
+      "roles": ["Blockchain Developer"]
+    },
+    {
+      "id": 147,
+      "title": "Service Desk Modernization Starter",
+      "description": "Set up a modern service desk portal with automated triage, knowledge base, and analytics.",
+      "difficulty": "Beginner",
+      "estimated_time": "1-2 weeks",
+      "skills": ["ITIL", "Freshservice", "Zapier", "Notion", "PowerBI"],
+      "features": [
+        "Self-service request catalog",
+        "Automated ticket triage via Zapier",
+        "Knowledge base templates in Notion",
+        "SLA dashboards in PowerBI",
+        "Weekly service health digests"],
+      "roles": ["IT Support", "Helpdesk Technician"]
+    },
+    {
+      "id": 148,
+      "title": "Remote Support Playbook",
+      "description": "Build a remote support playbook with device management, chat support, and satisfaction surveys.",
+      "difficulty": "Beginner",
+      "estimated_time": "1-2 weeks",
+      "skills": ["Microsoft Teams", "Intune", "AnyDesk", "Forms", "Power Automate"],
+      "features": [
+        "Intune device onboarding workflows",
+        "Remote assistance setup guide",
+        "Chat-based support scripts",
+        "Automated satisfaction surveys",
+        "Support metrics dashboard"],
+      "roles": ["IT Support", "Helpdesk Technician"]
+    },
+    {
+      "id": 149,
+      "title": "Shift-left Troubleshooting Lab",
+      "description": "Create a shift-left troubleshooting lab with guided scripts, diagnostics, and escalation playbooks.",
+      "difficulty": "Intermediate",
+      "estimated_time": "2-3 weeks",
+      "skills": ["PowerShell", "Power Automate", "ServiceNow", "SOPs", "SharePoint"],
+      "features": [
+        "Runbooks with automated diagnostics",
+        "Power Automate ticket enrichment",
+        "ServiceNow virtual agent flows",
+        "Escalation decision trees",
+        "Knowledge article lifecycle workflows"],
+      "roles": ["IT Support", "Helpdesk Technician"]
+    },
+    {
+      "id": 150,
+      "title": "Proactive Support Analytics",
+      "description": "Deploy a proactive support analytics system forecasting incidents and notifying stakeholders.",
+      "difficulty": "Intermediate",
+      "estimated_time": "3-4 weeks",
+      "skills": ["Python", "Pandas", "PowerBI", "ServiceNow", "Azure"],
+      "features": [
+        "Incident trend analysis",
+        "Predictive models for ticket spikes",
+        "Stakeholder alerting workflows",
+        "Automation of preventative actions",
+        "Executive reporting dashboards"],
+      "roles": ["IT Support", "Helpdesk Technician"]
+    },
+    {
+      "id": 151,
+      "title": "Unified Support Command Center",
+      "description": "Build a unified support command center with omnichannel routing, AI assistants, and automations.",
+      "difficulty": "Advanced",
+      "estimated_time": "4-5 weeks",
+      "skills": ["ServiceNow", "Kontakt.io", "OpenAI", "Elastic", "Azure"],
+      "features": [
+        "Omnichannel routing with context",
+        "AI assistant for support agents",
+        "Elastic centralized logging",
+        "Automation of resolution workflows",
+        "Real-time support dashboards"],
+      "roles": ["IT Support", "Helpdesk Technician"]
+    },
+    {
+      "id": 152,
+      "title": "IT Asset Automation Starter",
+      "description": "Setup an automation starter for IT asset lifecycle management with tagging, workflows, and audits.",
+      "difficulty": "Beginner",
+      "estimated_time": "1-2 weeks",
+      "skills": ["ITAM", "ServiceNow", "Power Automate", "Excel", "PowerBI"],
+      "features": [
+        "Asset catalog with lifecycle stages",
+        "Automated procurement workflows",
+        "Audit-ready reporting",
+        "Quick dashboards for asset health",
+        "Asset tagging best practices"],
+      "roles": ["IT Administrator"]
+    },
+    {
+      "id": 153,
+      "title": "Unified Endpoint Management Lab",
+      "description": "Create a lab for unified endpoint management covering Windows, macOS, and mobile devices.",
+      "difficulty": "Beginner",
+      "estimated_time": "1-2 weeks",
+      "skills": ["Microsoft Intune", "Jamf", "MDM", "PowerShell", "Compliance"],
+      "features": [
+        "Enrollment workflows for multiple platforms",
+        "Compliance policy enforcement",
+        "Patch management scripting",
+        "Reporting dashboards",
+        "Self-service portal configuration"],
+      "roles": ["IT Administrator"]
+    },
+    {
+      "id": 154,
+      "title": "IT Operations Runbook Hub",
+      "description": "Develop an IT operations runbook hub with automations, escalation matrices, and observability.",
+      "difficulty": "Intermediate",
+      "estimated_time": "3-4 weeks",
+      "skills": ["Ansible", "Grafana", "Prometheus", "PowerShell", "ServiceNow"],
+      "features": [
+        "Automated remediation playbooks",
+        "Alert correlation dashboards",
+        "On-call escalation matrix",
+        "Service health runbooks",
+        "Incident postmortem templates"],
+      "roles": ["IT Administrator"]
+    },
+    {
+      "id": 155,
+      "title": "Zero-touch Provisioning Pipeline",
+      "description": "Build a zero-touch provisioning pipeline with configuration as code, secrets, and compliance.",
+      "difficulty": "Intermediate",
+      "estimated_time": "3-4 weeks",
+      "skills": ["Ansible", "HashiCorp Vault", "Azure Automation", "PowerShell", "Git"],
+      "features": [
+        "Configuration modules with Ansible",
+        "Secrets distribution via Vault",
+        "Compliance checks",
+        "Automated remediation",
+        "Audit logging and reporting"],
+      "roles": ["IT Administrator"]
+    },
+    {
+      "id": 156,
+      "title": "Enterprise Endpoint Security Fabric",
+      "description": "Engineer an endpoint security fabric with EDR, automation, and incident response integrations.",
+      "difficulty": "Advanced",
+      "estimated_time": "4-5 weeks",
+      "skills": ["CrowdStrike", "SentinelOne", "SOAR", "PowerShell", "Elastic"],
+      "features": [
+        "EDR deployment pipelines",
+        "Automated containment workflows",
+        "Threat hunting dashboards",
+        "Integration with incident response",
+        "Compliance reporting"],
+      "roles": ["IT Administrator"]
+    },
+    {
+      "id": 157,
+      "title": "Field Support Toolkit",
+      "description": "Assemble a field support toolkit covering network diagnostics, asset tracking, and offline support.",
+      "difficulty": "Beginner",
+      "estimated_time": "1-2 weeks",
+      "skills": ["Network Diagnostics", "PowerApps", "Power Automate", "Excel", "Intune"],
+      "features": [
+        "Mobile diagnostics app",
+        "Asset check-in/check-out workflows",
+        "Offline procedures",
+        "Device configuration guides",
+        "Field reporting dashboard"],
+      "roles": ["Desktop Support Engineer"]
+    },
+    {
+      "id": 158,
+      "title": "Endpoint Imaging Pipeline",
+      "description": "Create an endpoint imaging pipeline with automated builds, testing, and deployment packages.",
+      "difficulty": "Beginner",
+      "estimated_time": "1-2 weeks",
+      "skills": ["MDT", "SCCM", "PowerShell", "Windows Autopilot", "Intune"],
+      "features": [
+        "Automated image builds",
+        "Driver and app packaging",
+        "Testing framework",
+        "Deployment pipelines",
+        "Documentation portal"],
+      "roles": ["Desktop Support Engineer"]
+    },
+    {
+      "id": 159,
+      "title": "Device Health Monitoring Console",
+      "description": "Deploy a device health monitoring console tracking performance, incidents, and user sentiment.",
+      "difficulty": "Intermediate",
+      "estimated_time": "3-4 weeks",
+      "skills": ["Lakeside SysTrack", "PowerBI", "Intune", "Power Automate", "Teams"],
+      "features": [
+        "Performance monitoring dashboards",
+        "Sentiment surveys",
+        "Proactive remediation scripts",
+        "Alerts to Teams",
+        "Executive summaries"],
+      "roles": ["Desktop Support Engineer"]
+    },
+    {
+      "id": 160,
+      "title": "Digital Workplace Experience Lab",
+      "description": "Build a lab to prototype digital workplace experiences with automation and analytics.",
+      "difficulty": "Intermediate",
+      "estimated_time": "3-4 weeks",
+      "skills": ["Microsoft Viva", "Power Platform", "SharePoint", "AI", "PowerBI"],
+      "features": [
+        "Experience journey mapping",
+        "Automated onboarding workflows",
+        "Employee feedback loops",
+        "Productivity analytics",
+        "ROI dashboards"
+      ],
+      "roles": ["Desktop Support Engineer"]
+    },
+    {
+      "id": 161,
+      "title": "Unified Device Lifecycle Platform",
+      "description": "Engineer a unified device lifecycle platform covering procurement, support, and sustainability.",
+      "difficulty": "Advanced",
+      "estimated_time": "4-5 weeks",
+      "skills": ["ServiceNow", "Intune", "PowerBI", "Azure Functions", "Sustainability"],
+      "features": [
+        "Lifecycle workflow automation",
+        "Sustainability score tracking",
+        "Predictive replacement models",
+        "Self-service portals",
+        "Management dashboards"
+      ],
+      "roles": ["Desktop Support Engineer"]
+    },
+    {
+      "id": 162,
+      "title": "Product Discovery Insights Hub",
+      "description": "Create a product discovery hub consolidating research, experiments, and prioritization.",
+      "difficulty": "Beginner",
+      "estimated_time": "1-2 weeks",
+      "skills": ["Product Management", "Notion", "Maze", "Mixpanel", "Figma"],
+      "features": [
+        "Research repository",
+        "Experiment templates",
+        "Prioritization dashboard",
+        "Persona mapping",
+        "Stakeholder comms"
+      ],
+      "roles": ["Product Manager"]
+    },
+    {
+      "id": 163,
+      "title": "Outcome-driven Roadmap Starter",
+      "description": "Build an outcome-driven roadmap with measurable OKRs, initiative tracking, and reporting.",
+      "difficulty": "Beginner",
+      "estimated_time": "1-2 weeks",
+      "skills": ["Roadmapping", "Productboard", "Notion", "Google Sheets", "Mixpanel"],
+      "features": [
+        "Outcome-based roadmap",
+        "OKR tracking",
+        "Initiative dashboards",
+        "Customer feedback loops",
+        "Weekly stakeholder updates"
+      ],
+      "roles": ["Product Manager"]
+    },
+    {
+      "id": 164,
+      "title": "Launch Readiness Command Center",
+      "description": "Develop a launch readiness command center with go-to-market checklists and telemetry.",
+      "difficulty": "Intermediate",
+      "estimated_time": "3-4 weeks",
+      "skills": ["Asana", "LaunchDarkly", "Segment", "Notion", "GTM"],
+      "features": [
+        "Launch milestone templates",
+        "LaunchDarkly feature gating",
+        "Telemetry dashboards",
+        "Go-to-market checklist",
+        "Risk mitigation playbooks"
+      ],
+      "roles": ["Product Manager"]
+    },
+    {
+      "id": 165,
+      "title": "Product Metrics Observatory",
+      "description": "Build a metrics observatory for product teams tracking health, adoption, and insights.",
+      "difficulty": "Intermediate",
+      "estimated_time": "3-4 weeks",
+      "skills": ["Tableau", "Amplitude", "dbt", "Segment", "Narratives"],
+      "features": [
+        "Automated weekly insights",
+        "Anomaly detection",
+        "Feature adoption analysis",
+        "Opportunity backlog",
+        "Narrative reports"
+      ],
+      "roles": ["Product Manager"]
+    },
+    {
+      "id": 166,
+      "title": "Strategic Portfolio Management Platform",
+      "description": "Create a strategic portfolio management platform aligning product bets with company outcomes.",
+      "difficulty": "Advanced",
+      "estimated_time": "4-5 weeks",
+      "skills": ["Aha!", "Product Operations", "Snowflake", "PowerBI", "Automation"],
+      "features": [
+        "Portfolio prioritization engine",
+        "Resource capacity planning",
+        "Financial impact modeling",
+        "Automation of reporting",
+        "Executive briefing center"
+      ],
+      "roles": ["Product Manager"]
+    },
+    {
+      "id": 167,
+      "title": "Agile Sprint Analytics Starter",
+      "description": "Build a sprint analytics starter kit with velocity dashboards, retrospectives, and automation.",
+      "difficulty": "Beginner",
+      "estimated_time": "1-2 weeks",
+      "skills": ["Scrum", "Jira", "Confluence", "Looker Studio", "Automation"],
+      "features": [
+        "Sprint health dashboards",
+        "Retrospective templates",
+        "Automated backlog hygiene alerts",
+        "Burndown analytics",
+        "Stakeholder status digests"
+      ],
+      "roles": ["Project Manager", "Scrum Master"]
+    },
+    {
+      "id": 168,
+      "title": "Remote Agile Playbook",
+      "description": "Create a remote agile playbook covering ceremonies, collaboration tooling, and facilitation tricks.",
+      "difficulty": "Beginner",
+      "estimated_time": "1-2 weeks",
+      "skills": ["Scrum", "Miro", "Zoom", "Slack", "Async Collaboration"],
+      "features": [
+        "Virtual ceremony guides",
+        "Miro boards for planning",
+        "Async update cadences",
+        "Team charter templates",
+        "Outcome-based reporting"
+      ],
+      "roles": ["Project Manager", "Scrum Master"]
+    },
+    {
+      "id": 169,
+      "title": "Scaled Agile Release Train Toolkit",
+      "description": "Develop a release train toolkit with PI planning dashboards, dependency mapping, and OKR tracking.",
+      "difficulty": "Intermediate",
+      "estimated_time": "3-4 weeks",
+      "skills": ["SAFe", "Jira Align", "Miro", "Google Sheets", "Automation"],
+      "features": [
+        "PI planning dashboards",
+        "Dependency heatmaps",
+        "OKR progress trackers",
+        "Risk management workflows",
+        "Stakeholder reporting portal"
+      ],
+      "roles": ["Project Manager", "Scrum Master"]
+    },
+    {
+      "id": 170,
+      "title": "Portfolio Kanban Control Center",
+      "description": "Build a portfolio kanban control center with WIP limits, forecasting, and governance.",
+      "difficulty": "Intermediate",
+      "estimated_time": "3-4 weeks",
+      "skills": ["Kanban", "Jira", "Monday.com", "Forecasting", "PowerBI"],
+      "features": [
+        "Portfolio kanban board",
+        "WIP and flow analytics",
+        "Forecasting models",
+        "Governance checkpoint automation",
+        "Executive dashboards"
+      ],
+      "roles": ["Project Manager", "Scrum Master"]
+    },
+    {
+      "id": 171,
+      "title": "AI-assisted Delivery Orchestrator",
+      "description": "Engineer an AI-assisted orchestrator automating risk signals, capacity plans, and escalations.",
+      "difficulty": "Advanced",
+      "estimated_time": "4-5 weeks",
+      "skills": ["Scrum", "AI", "PowerBI", "Automation", "ServiceNow"],
+      "features": [
+        "Predictive risk scoring",
+        "Automated escalation workflows",
+        "AI-driven capacity planning",
+        "Cross-team alignment dashboards",
+        "Executive briefing digests"
+      ],
+      "roles": ["Project Manager", "Scrum Master"]
+    },
+    {
+      "id": 172,
+      "title": "Business Requirements Hub",
+      "description": "Create a business requirements hub with traceability, stakeholder views, and sign-off workflows.",
+      "difficulty": "Beginner",
+      "estimated_time": "1-2 weeks",
+      "skills": ["Business Analysis", "Notion", "Lucidchart", "Miro", "Slack"],
+      "features": [
+        "Requirement intake forms",
+        "Traceability matrices",
+        "Stakeholder review dashboards",
+        "Process flow templates",
+        "Change log automation"
+      ],
+      "roles": ["Business Analyst"]
+    },
+    {
+      "id": 173,
+      "title": "Data-informed Discovery Toolkit",
+      "description": "Develop a discovery toolkit combining qualitative research, analytics, and prioritization.",
+      "difficulty": "Beginner",
+      "estimated_time": "1-2 weeks",
+      "skills": ["SQL", "Mixpanel", "Maze", "Notion", "Figma"],
+      "features": [
+        "Insight repository",
+        "Hypothesis templates",
+        "Analytics dashboards",
+        "Customer interview hub",
+        "Prioritization worksheets"
+      ],
+      "roles": ["Business Analyst"]
+    },
+    {
+      "id": 174,
+      "title": "Process Optimization Lab",
+      "description": "Build a process optimization lab using value stream mapping, metrics, and automation.",
+      "difficulty": "Intermediate",
+      "estimated_time": "3-4 weeks",
+      "skills": ["Lean", "PowerBI", "Python", "Automation", "Notion"],
+      "features": [
+        "Value stream maps",
+        "Bottleneck analytics",
+        "Automation opportunity backlog",
+        "Change impact assessments",
+        "Quarterly improvement reporting"
+      ],
+      "roles": ["Business Analyst"]
+    },
+    {
+      "id": 175,
+      "title": "Data Governance Command Center",
+      "description": "Create a command center aligning data governance, business metrics, and compliance.",
+      "difficulty": "Intermediate",
+      "estimated_time": "3-4 weeks",
+      "skills": ["Data Governance", "Collibra", "PowerBI", "SQL", "Notion"],
+      "features": [
+        "Data glossary",
+        "Stewardship workflows",
+        "Compliance dashboards",
+        "Business metric catalog",
+        "Stakeholder communication hub"
+      ],
+      "roles": ["Business Analyst"]
+    },
+    {
+      "id": 176,
+      "title": "Enterprise Insight Enablement Platform",
+      "description": "Engineer an insight enablement platform enabling self-serve analytics, narratives, and governance.",
+      "difficulty": "Advanced",
+      "estimated_time": "4-5 weeks",
+      "skills": ["Business Analysis", "PowerBI", "Snowflake", "Automation", "Storytelling"],
+      "features": [
+        "Self-serve analytics portal",
+        "Narrative automation",
+        "Governance workflows",
+        "ROI tracking",
+        "Executive insight briefings"
+      ],
+      "roles": ["Business Analyst"]
+    },
+    {
+      "id": 177,
+      "title": "Program Intake Management Starter",
+      "description": "Build a program intake portal managing proposals, scoring, and approvals.",
+      "difficulty": "Beginner",
+      "estimated_time": "1-2 weeks",
+      "skills": ["Program Management", "Airtable", "Notion", "Zapier", "PowerBI"],
+      "features": [
+        "Proposal submission forms",
+        "Scoring matrices",
+        "Approval workflows",
+        "Capacity dashboards",
+        "Status communications"
+      ],
+      "roles": ["Technical Program Manager"]
+    },
+    {
+      "id": 178,
+      "title": "Cross-functional Alignment Playbook",
+      "description": "Create a cross-functional alignment playbook with RACI maps, cadences, and comms.",
+      "difficulty": "Beginner",
+      "estimated_time": "1-2 weeks",
+      "skills": ["Program Management", "Miro", "Notion", "Slack", "OKRs"],
+      "features": [
+        "RACI templates",
+        "Cadence planners",
+        "Risk registers",
+        "Stakeholder newsletters",
+        "Retrospective formats"
+      ],
+      "roles": ["Technical Program Manager"]
+    },
+    {
+      "id": 179,
+      "title": "Delivery Risk Radar",
+      "description": "Develop a delivery risk radar tracking dependencies, blockers, and contingency plans.",
+      "difficulty": "Intermediate",
+      "estimated_time": "3-4 weeks",
+      "skills": ["Program Management", "Jira", "PowerBI", "Automation", "Miro"],
+      "features": [
+        "Dependency mapping dashboards",
+        "Risk scoring models",
+        "Automated escalations",
+        "Contingency playbooks",
+        "Exec briefing packs"
+      ],
+      "roles": ["Technical Program Manager"]
+    },
+    {
+      "id": 180,
+      "title": "Program Value Realization Office",
+      "description": "Build a value realization office tracking benefits, OKRs, and change management.",
+      "difficulty": "Intermediate",
+      "estimated_time": "3-4 weeks",
+      "skills": ["Program Management", "OKRs", "PowerBI", "Segment", "Automation"],
+      "features": [
+        "Benefits tracking dashboards",
+        "OKR alignment",
+        "Change management toolkit",
+        "Stakeholder outcome reports",
+        "Lessons learned hub"
+      ],
+      "roles": ["Technical Program Manager"]
+    },
+    {
+      "id": 181,
+      "title": "Enterprise Program Control Tower",
+      "description": "Engineer a program control tower integrating delivery telemetry, financials, and governance.",
+      "difficulty": "Advanced",
+      "estimated_time": "4-5 weeks",
+      "skills": ["Program Management", "Snowflake", "PowerBI", "Automation", "Finance"],
+      "features": [
+        "Real-time delivery telemetry",
+        "Financial performance dashboards",
+        "Governance automation",
+        "Risk heatmaps",
+        "Executive reporting suite"
+      ],
+      "roles": ["Technical Program Manager"]
+    }
+  ]
+}

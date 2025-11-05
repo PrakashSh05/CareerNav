@@ -1,0 +1,80 @@
+{
+  "Angular": [
+    {"type": "Documentation", "title": "Angular Official Documentation", "url": "https://angular.io/docs", "description": "Complete Angular documentation"},
+    {"type": "Video", "title": "Angular Tutorial for Beginners", "url": "https://www.youtube.com/watch?v=3qBXWUpoPHo", "description": "Complete Angular tutorial"},
+    {"type": "Course", "title": "Angular - The Complete Guide", "url": "https://www.udemy.com/course/the-complete-guide-to-angular-2/", "description": "Comprehensive Angular course"},
+    {"type": "Book", "title": "ng-book: The Complete Guide to Angular", "url": "https://www.ng-book.com/2/", "description": "Comprehensive Angular guide"}
+  ],
+  "Vue.js": [
+    {"type": "Documentation", "title": "Vue.js Official Documentation", "url": "https://vuejs.org/guide/introduction.html", "description": "Complete Vue.js documentation"},
+    {"type": "Video", "title": "Vue.js Tutorial for Beginners", "url": "https://www.youtube.com/watch?v=FXpIoQ_rT_c", "description": "Complete Vue.js tutorial"},
+    {"type": "Course", "title": "Vue - The Complete Guide", "url": "https://www.udemy.com/course/vuejs-2-the-complete-guide/", "description": "Comprehensive Vue.js course"},
+    {"type": "Book", "title": "The Majesty of Vue.js", "url": "https://leanpub.com/vuejs2", "description": "Complete Vue.js guide"}
+  ],
+  "Express.js": [
+    {"type": "Documentation", "title": "Express.js Official Documentation", "url": "https://expressjs.com/", "description": "Complete Express.js documentation"},
+    {"type": "Video", "title": "Express.js Tutorial", "url": "https://www.youtube.com/watch?v=L72fhGm1tfE", "description": "Complete Express.js tutorial"},
+    {"type": "Course", "title": "Node.js, Express & MongoDB Dev to Deployment", "url": "https://www.udemy.com/course/nodejs-express-mongodb-dev-to-deployment/", "description": "Full stack with Express"},
+    {"type": "Book", "title": "Express in Action", "url": "https://www.manning.com/books/express-in-action", "description": "Writing, building, and testing Node.js applications"}
+  ],
+  "Django": [
+    {"type": "Documentation", "title": "Django Official Documentation", "url": "https://docs.djangoproject.com/", "description": "Complete Django documentation"},
+    {"type": "Video", "title": "Django Tutorial for Beginners", "url": "https://www.youtube.com/watch?v=rHux0gMZ3Eg", "description": "Complete Django tutorial"},
+    {"type": "Course", "title": "Python Django - The Practical Guide", "url": "https://www.udemy.com/course/python-django-the-practical-guide/", "description": "Comprehensive Django course"},
+    {"type": "Book", "title": "Two Scoops of Django", "url": "https://www.feldroy.com/books/two-scoops-of-django-3-x", "description": "Best practices for Django"}
+  ],
+  "Flask": [
+    {"type": "Documentation", "title": "Flask Official Documentation", "url": "https://flask.palletsprojects.com/", "description": "Complete Flask documentation"},
+    {"type": "Video", "title": "Flask Tutorial for Beginners", "url": "https://www.youtube.com/watch?v=Z1RJmh_OqeA", "description": "Complete Flask tutorial"},
+    {"type": "Course", "title": "REST APIs with Flask and Python", "url": "https://www.udemy.com/course/rest-api-flask-and-python/", "description": "Build REST APIs with Flask"},
+    {"type": "Book", "title": "Flask Web Development", "url": "https://www.oreilly.com/library/view/flask-web-development/9781491991725/", "description": "Developing web applications with Python"}
+  ],
+  "Spring Boot": [
+    {"type": "Documentation", "title": "Spring Boot Documentation", "url": "https://spring.io/projects/spring-boot", "description": "Complete Spring Boot documentation"},
+    {"type": "Video", "title": "Spring Boot Tutorial for Beginners", "url": "https://www.youtube.com/watch?v=vtPkZShrvXQ", "description": "Complete Spring Boot tutorial"},
+    {"type": "Course", "title": "Spring & Hibernate for Beginners", "url": "https://www.udemy.com/course/spring-hibernate-tutorial/", "description": "Comprehensive Spring Boot course"},
+    {"type": "Book", "title": "Spring Boot in Action", "url": "https://www.manning.com/books/spring-boot-in-action", "description": "Building microservices with Spring Boot"}
+  ],
+  "PostgreSQL": [
+    {"type": "Documentation", "title": "PostgreSQL Official Documentation", "url": "https://www.postgresql.org/docs/", "description": "Complete PostgreSQL documentation"},
+    {"type": "Video", "title": "PostgreSQL Tutorial for Beginners", "url": "https://www.youtube.com/watch?v=qw--VYLpxG4", "description": "Complete PostgreSQL tutorial"},
+    {"type": "Course", "title": "The Complete SQL Bootcamp", "url": "https://www.udemy.com/course/the-complete-sql-bootcamp/", "description": "SQL with PostgreSQL"},
+    {"type": "Book", "title": "PostgreSQL: Up and Running", "url": "https://www.oreilly.com/library/view/postgresql-up-and/9781491963401/", "description": "Practical PostgreSQL guide"}
+  ],
+  "MySQL": [
+    {"type": "Documentation", "title": "MySQL Official Documentation", "url": "https://dev.mysql.com/doc/", "description": "Complete MySQL documentation"},
+    {"type": "Video", "title": "MySQL Tutorial for Beginners", "url": "https://www.youtube.com/watch?v=7S_tz1z_5bA", "description": "Complete MySQL tutorial"},
+    {"type": "Course", "title": "The Ultimate MySQL Bootcamp", "url": "https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/", "description": "Comprehensive MySQL course"},
+    {"type": "Book", "title": "Learning MySQL", "url": "https://www.oreilly.com/library/view/learning-mysql/9780596008642/", "description": "Get a handle on your data"}
+  ],
+  "Elasticsearch": [
+    {"type": "Documentation", "title": "Elasticsearch Documentation", "url": "https://www.elastic.co/guide/index.html", "description": "Complete Elasticsearch documentation"},
+    {"type": "Video", "title": "Elasticsearch Tutorial for Beginners", "url": "https://www.youtube.com/watch?v=C3tlMqaNSaI", "description": "Complete Elasticsearch tutorial"},
+    {"type": "Course", "title": "Complete Guide to Elasticsearch", "url": "https://www.udemy.com/course/elasticsearch-complete-guide/", "description": "Comprehensive Elasticsearch course"},
+    {"type": "Book", "title": "Elasticsearch: The Definitive Guide", "url": "https://www.oreilly.com/library/view/elasticsearch-the-definitive/9781449358532/", "description": "A distributed real-time search and analytics engine"}
+  ],
+  "RabbitMQ": [
+    {"type": "Documentation", "title": "RabbitMQ Documentation", "url": "https://www.rabbitmq.com/documentation.html", "description": "Complete RabbitMQ documentation"},
+    {"type": "Video", "title": "RabbitMQ Tutorial", "url": "https://www.youtube.com/watch?v=deG25y_r6OY", "description": "Complete RabbitMQ tutorial"},
+    {"type": "Course", "title": "RabbitMQ: Messaging with Java, Spring Boot And Spring MVC", "url": "https://www.udemy.com/course/rabbitmq-messaging-with-java-spring-boot-and-spring-mvc/", "description": "RabbitMQ with Spring"},
+    {"type": "Book", "title": "RabbitMQ in Action", "url": "https://www.manning.com/books/rabbitmq-in-action", "description": "Distributed messaging for everyone"}
+  ],
+  "Kafka": [
+    {"type": "Documentation", "title": "Apache Kafka Documentation", "url": "https://kafka.apache.org/documentation/", "description": "Complete Kafka documentation"},
+    {"type": "Video", "title": "Apache Kafka Tutorial", "url": "https://www.youtube.com/watch?v=R873BlNVUB4", "description": "Complete Kafka tutorial"},
+    {"type": "Course", "title": "Apache Kafka Series - Learn Apache Kafka for Beginners", "url": "https://www.udemy.com/course/apache-kafka/", "description": "Comprehensive Kafka course"},
+    {"type": "Book", "title": "Kafka: The Definitive Guide", "url": "https://www.oreilly.com/library/view/kafka-the-definitive/9781491936153/", "description": "Real-time data and stream processing"}
+  ],
+  "Nginx": [
+    {"type": "Documentation", "title": "Nginx Official Documentation", "url": "https://nginx.org/en/docs/", "description": "Complete Nginx documentation"},
+    {"type": "Video", "title": "Nginx Tutorial for Beginners", "url": "https://www.youtube.com/watch?v=7VAI73roXaY", "description": "Complete Nginx tutorial"},
+    {"type": "Course", "title": "Nginx Fundamentals", "url": "https://www.udemy.com/course/nginx-fundamentals/", "description": "High performance servers with Nginx"},
+    {"type": "Book", "title": "Nginx HTTP Server", "url": "https://www.packtpub.com/product/nginx-http-server-fourth-edition/9781788623551", "description": "Harness the power of Nginx"}
+  ],
+  "Apache": [
+    {"type": "Documentation", "title": "Apache HTTP Server Documentation", "url": "https://httpd.apache.org/docs/", "description": "Complete Apache documentation"},
+    {"type": "Video", "title": "Apache Web Server Tutorial", "url": "https://www.youtube.com/watch?v=1CDxpAzvLKY", "description": "Complete Apache tutorial"},
+    {"type": "Course", "title": "Apache Web Server Administration", "url": "https://www.udemy.com/course/apache-web-server-administration/", "description": "Apache server administration"},
+    {"type": "Book", "title": "Apache Cookbook", "url": "https://www.oreilly.com/library/view/apache-cookbook-2nd/0596529945/", "description": "Solutions and examples for Apache administrators"}
+  ]
+}

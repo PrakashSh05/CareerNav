@@ -1,0 +1,1562 @@
+{
+  "React": [
+    {
+      "type": "Documentation",
+      "title": "React Official Documentation",
+      "url": "https://react.dev/",
+      "description": "The official React documentation with comprehensive guides and API reference"
+    },
+    {
+      "type": "Video",
+      "title": "React Tutorial for Beginners",
+      "url": "https://www.youtube.com/watch?v=SqcY0GlETPk",
+      "description": "Complete React tutorial covering components, hooks, and state management"
+    },
+    {
+      "type": "Course",
+      "title": "The Complete React Developer Course",
+      "url": "https://www.udemy.com/course/react-2nd-edition/",
+      "description": "Comprehensive React course with projects and real-world applications"
+    },
+    {
+      "type": "Book",
+      "title": "Learning React: Modern Patterns for Developing React Apps",
+      "url": "https://www.oreilly.com/library/view/learning-react-2nd/9781492051718/",
+      "description": "In-depth guide to React patterns and best practices"
+    }
+  ],
+  "FastAPI": [
+    {
+      "type": "Documentation",
+      "title": "FastAPI Official Documentation",
+      "url": "https://fastapi.tiangolo.com/",
+      "description": "Complete FastAPI documentation with interactive examples"
+    },
+    {
+      "type": "Video",
+      "title": "FastAPI Tutorial - Building RESTful APIs with Python",
+      "url": "https://www.youtube.com/watch?v=7t2alSnE2-I",
+      "description": "Complete FastAPI tutorial for building modern APIs"
+    },
+    {
+      "type": "Course",
+      "title": "FastAPI - The Complete Course",
+      "url": "https://www.udemy.com/course/fastapi-the-complete-course/",
+      "description": "Comprehensive FastAPI course with database integration and deployment"
+    },
+    {
+      "type": "Book",
+      "title": "Building Data Science Applications with FastAPI",
+      "url": "https://www.packtpub.com/product/building-data-science-applications-with-fastapi/9781801079211",
+      "description": "Learn to build production-ready APIs with FastAPI"
+    }
+  ],
+  "Python": [
+    {
+      "type": "Documentation",
+      "title": "Python Official Documentation",
+      "url": "https://docs.python.org/3/",
+      "description": "Official Python documentation and language reference"
+    },
+    {
+      "type": "Video",
+      "title": "Python Tutorial for Beginners",
+      "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc",
+      "description": "Complete Python programming tutorial for beginners"
+    },
+    {
+      "type": "Course",
+      "title": "Complete Python Bootcamp",
+      "url": "https://www.udemy.com/course/complete-python-bootcamp/",
+      "description": "Comprehensive Python course from basics to advanced topics"
+    },
+    {
+      "type": "Book",
+      "title": "Automate the Boring Stuff with Python",
+      "url": "https://automatetheboringstuff.com/",
+      "description": "Practical Python programming for total beginners"
+    }
+  ],
+  "JavaScript": [
+    {
+      "type": "Documentation",
+      "title": "MDN JavaScript Guide",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide",
+      "description": "Comprehensive JavaScript guide from Mozilla Developer Network"
+    },
+    {
+      "type": "Video",
+      "title": "JavaScript Tutorial for Beginners",
+      "url": "https://www.youtube.com/watch?v=PkZNo7MFNFg",
+      "description": "Complete JavaScript tutorial covering fundamentals to advanced concepts"
+    },
+    {
+      "type": "Course",
+      "title": "The Complete JavaScript Course",
+      "url": "https://www.udemy.com/course/the-complete-javascript-course/",
+      "description": "Modern JavaScript course with projects and ES6+ features"
+    },
+    {
+      "type": "Book",
+      "title": "You Don't Know JS (book series)",
+      "url": "https://github.com/getify/You-Dont-Know-JS",
+      "description": "Deep dive into JavaScript core mechanisms"
+    }
+  ],
+  "MongoDB": [
+    {
+      "type": "Documentation",
+      "title": "MongoDB Official Documentation",
+      "url": "https://docs.mongodb.com/",
+      "description": "Complete MongoDB documentation with tutorials and references"
+    },
+    {
+      "type": "Video",
+      "title": "MongoDB Tutorial for Beginners",
+      "url": "https://www.youtube.com/watch?v=pWbMrx5rVBE",
+      "description": "Complete MongoDB tutorial covering CRUD operations and aggregation"
+    },
+    {
+      "type": "Course",
+      "title": "MongoDB - The Complete Developer's Guide",
+      "url": "https://www.udemy.com/course/mongodb-the-complete-developers-guide/",
+      "description": "Comprehensive MongoDB course with practical projects"
+    },
+    {
+      "type": "Book",
+      "title": "MongoDB: The Definitive Guide",
+      "url": "https://www.oreilly.com/library/view/mongodb-the-definitive/9781491954454/",
+      "description": "Complete guide to MongoDB for developers and DBAs"
+    }
+  ],
+  "Machine Learning": [
+    {
+      "type": "Documentation",
+      "title": "Scikit-learn Documentation",
+      "url": "https://scikit-learn.org/stable/",
+      "description": "Comprehensive machine learning library documentation"
+    },
+    {
+      "type": "Video",
+      "title": "Machine Learning Course - CS229 Stanford",
+      "url": "https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU",
+      "description": "Stanford's machine learning course by Andrew Ng"
+    },
+    {
+      "type": "Course",
+      "title": "Machine Learning A-Z",
+      "url": "https://www.udemy.com/course/machinelearning/",
+      "description": "Hands-on machine learning course with Python and R"
+    },
+    {
+      "type": "Book",
+      "title": "Hands-On Machine Learning",
+      "url": "https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/",
+      "description": "Practical machine learning with Scikit-Learn and TensorFlow"
+    }
+  ],
+  "Data Structures": [
+    {
+      "type": "Documentation",
+      "title": "GeeksforGeeks Data Structures",
+      "url": "https://www.geeksforgeeks.org/data-structures/",
+      "description": "Comprehensive data structures tutorials and implementations"
+    },
+    {
+      "type": "Video",
+      "title": "Data Structures and Algorithms Course",
+      "url": "https://www.youtube.com/watch?v=RBSGKlAvoiM",
+      "description": "Complete data structures and algorithms course"
+    },
+    {
+      "type": "Course",
+      "title": "Algorithms and Data Structures",
+      "url": "https://www.coursera.org/specializations/algorithms",
+      "description": "Stanford algorithms specialization on Coursera"
+    },
+    {
+      "type": "Book",
+      "title": "Introduction to Algorithms (CLRS)",
+      "url": "https://mitpress.mit.edu/books/introduction-algorithms-third-edition",
+      "description": "Comprehensive algorithms and data structures textbook"
+    }
+  ],
+  "System Design": [
+    {
+      "type": "Documentation",
+      "title": "High Scalability",
+      "url": "http://highscalability.com/",
+      "description": "Real-world system design case studies and architectures"
+    },
+    {
+      "type": "Video",
+      "title": "System Design Interview Questions",
+      "url": "https://www.youtube.com/watch?v=UzLMhqg3_Wc",
+      "description": "System design interview preparation and examples"
+    },
+    {
+      "type": "Course",
+      "title": "Grokking the System Design Interview",
+      "url": "https://www.educative.io/courses/grokking-the-system-design-interview",
+      "description": "Comprehensive system design interview preparation"
+    },
+    {
+      "type": "Book",
+      "title": "Designing Data-Intensive Applications",
+      "url": "https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/",
+      "description": "The big ideas behind reliable, scalable, and maintainable systems"
+    }
+  ],
+  "Node.js": [
+    {
+      "type": "Documentation",
+      "title": "Node.js Official Documentation",
+      "url": "https://nodejs.org/en/docs/",
+      "description": "Official Node.js documentation and API reference"
+    },
+    {
+      "type": "Video",
+      "title": "Node.js Tutorial for Beginners",
+      "url": "https://www.youtube.com/watch?v=TlB_eWDSMt4",
+      "description": "Complete Node.js tutorial covering fundamentals to advanced topics"
+    },
+    {
+      "type": "Course",
+      "title": "The Complete Node.js Developer Course",
+      "url": "https://www.udemy.com/course/the-complete-nodejs-developer-course-2/",
+      "description": "Comprehensive Node.js course with real-world projects"
+    },
+    {
+      "type": "Book",
+      "title": "Node.js Design Patterns",
+      "url": "https://www.packtpub.com/product/node-js-design-patterns-third-edition/9781839214110",
+      "description": "Advanced Node.js patterns and best practices"
+    }
+  ],
+  "Docker": [
+    {
+      "type": "Documentation",
+      "title": "Docker Official Documentation",
+      "url": "https://docs.docker.com/",
+      "description": "Complete Docker documentation with tutorials and references"
+    },
+    {
+      "type": "Video",
+      "title": "Docker Tutorial for Beginners",
+      "url": "https://www.youtube.com/watch?v=3c-iBn73dDE",
+      "description": "Complete Docker tutorial covering containers and orchestration"
+    },
+    {
+      "type": "Course",
+      "title": "Docker and Kubernetes: The Complete Guide",
+      "url": "https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/",
+      "description": "Comprehensive Docker and Kubernetes course"
+    },
+    {
+      "type": "Book",
+      "title": "Docker Deep Dive",
+      "url": "https://www.amazon.com/Docker-Deep-Dive-Nigel-Poulton/dp/1521822808",
+      "description": "In-depth guide to Docker containers and orchestration"
+    }
+  ],
+  "AWS": [
+    {
+      "type": "Documentation",
+      "title": "AWS Official Documentation",
+      "url": "https://docs.aws.amazon.com/",
+      "description": "Complete AWS documentation covering all services"
+    },
+    {
+      "type": "Video",
+      "title": "AWS Certified Solutions Architect Tutorial",
+      "url": "https://www.youtube.com/watch?v=Ia-UEYYR44s",
+      "description": "Complete AWS tutorial for Solutions Architect certification"
+    },
+    {
+      "type": "Course",
+      "title": "AWS Certified Solutions Architect - Associate",
+      "url": "https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/",
+      "description": "Comprehensive AWS certification course"
+    },
+    {
+      "type": "Book",
+      "title": "AWS Certified Solutions Architect Study Guide",
+      "url": "https://www.amazon.com/Certified-Solutions-Architect-Study-Guide/dp/1119713080",
+      "description": "Official AWS certification study guide"
+    }
+  ],
+  "Kubernetes": [
+    {
+      "type": "Documentation",
+      "title": "Kubernetes Official Documentation",
+      "url": "https://kubernetes.io/docs/",
+      "description": "Complete Kubernetes documentation and tutorials"
+    },
+    {
+      "type": "Video",
+      "title": "Kubernetes Tutorial for Beginners",
+      "url": "https://www.youtube.com/watch?v=X48VuDVv0do",
+      "description": "Complete Kubernetes tutorial covering pods, deployments, and services"
+    },
+    {
+      "type": "Course",
+      "title": "Kubernetes for Developers",
+      "url": "https://www.udemy.com/course/kubernetes-for-developers/",
+      "description": "Hands-on Kubernetes course for developers"
+    },
+    {
+      "type": "Book",
+      "title": "Kubernetes Up & Running",
+      "url": "https://www.oreilly.com/library/view/kubernetes-up-and/9781492046523/",
+      "description": "Comprehensive guide to Kubernetes"
+    }
+  ],
+  "Terraform": [
+    {
+      "type": "Documentation",
+      "title": "Terraform Official Documentation",
+      "url": "https://www.terraform.io/docs",
+      "description": "Complete Terraform documentation and guides"
+    },
+    {
+      "type": "Video",
+      "title": "Terraform Tutorial for Beginners",
+      "url": "https://www.youtube.com/watch?v=SLB_c_ayRMo",
+      "description": "Complete Terraform tutorial for infrastructure as code"
+    },
+    {
+      "type": "Course",
+      "title": "HashiCorp Certified: Terraform Associate",
+      "url": "https://www.udemy.com/course/terraform-beginner-to-advanced/",
+      "description": "Comprehensive Terraform certification course"
+    },
+    {
+      "type": "Book",
+      "title": "Terraform: Up & Running",
+      "url": "https://www.oreilly.com/library/view/terraform-up/9781492046899/",
+      "description": "Writing infrastructure as code with Terraform"
+    }
+  ],
+  "Jenkins": [
+    {
+      "type": "Documentation",
+      "title": "Jenkins Official Documentation",
+      "url": "https://www.jenkins.io/doc/",
+      "description": "Complete Jenkins documentation and tutorials"
+    },
+    {
+      "type": "Video",
+      "title": "Jenkins Tutorial for Beginners",
+      "url": "https://www.youtube.com/watch?v=FX322RVNGj4",
+      "description": "Complete Jenkins CI/CD tutorial"
+    },
+    {
+      "type": "Course",
+      "title": "Jenkins, From Zero To Hero",
+      "url": "https://www.udemy.com/course/jenkins-from-zero-to-hero/",
+      "description": "Comprehensive Jenkins course for CI/CD"
+    },
+    {
+      "type": "Book",
+      "title": "Jenkins: The Definitive Guide",
+      "url": "https://www.oreilly.com/library/view/jenkins-the-definitive/9781449311155/",
+      "description": "Complete guide to Jenkins automation"
+    }
+  ],
+  "Git": [
+    {
+      "type": "Documentation",
+      "title": "Git Official Documentation",
+      "url": "https://git-scm.com/doc",
+      "description": "Complete Git documentation and reference"
+    },
+    {
+      "type": "Video",
+      "title": "Git Tutorial for Beginners",
+      "url": "https://www.youtube.com/watch?v=8JJ101D3knE",
+      "description": "Complete Git tutorial covering basics to advanced"
+    },
+    {
+      "type": "Course",
+      "title": "Git Complete: The definitive guide",
+      "url": "https://www.udemy.com/course/git-complete/",
+      "description": "Comprehensive Git course with hands-on practice"
+    },
+    {
+      "type": "Book",
+      "title": "Pro Git",
+      "url": "https://git-scm.com/book/en/v2",
+      "description": "The entire Pro Git book, free online"
+    }
+  ],
+  "Linux": [
+    {
+      "type": "Documentation",
+      "title": "Linux Documentation Project",
+      "url": "https://tldp.org/",
+      "description": "Comprehensive Linux documentation and guides"
+    },
+    {
+      "type": "Video",
+      "title": "Linux Tutorial for Beginners",
+      "url": "https://www.youtube.com/watch?v=BMGixkvJ-6w",
+      "description": "Complete Linux tutorial for beginners"
+    },
+    {
+      "type": "Course",
+      "title": "Linux Administration Bootcamp",
+      "url": "https://www.udemy.com/course/linux-administration-bootcamp/",
+      "description": "Comprehensive Linux administration course"
+    },
+    {
+      "type": "Book",
+      "title": "The Linux Command Line",
+      "url": "https://linuxcommand.org/tlcl.php",
+      "description": "Complete introduction to the Linux command line"
+    }
+  ],
+  "Azure": [
+    {
+      "type": "Documentation",
+      "title": "Microsoft Azure Documentation",
+      "url": "https://docs.microsoft.com/en-us/azure/",
+      "description": "Complete Azure documentation covering all services"
+    },
+    {
+      "type": "Video",
+      "title": "Azure Full Course for Beginners",
+      "url": "https://www.youtube.com/watch?v=NKEFWyqJ5XA",
+      "description": "Complete Azure tutorial for beginners"
+    },
+    {
+      "type": "Course",
+      "title": "AZ-900: Microsoft Azure Fundamentals",
+      "url": "https://www.udemy.com/course/az900-azure/",
+      "description": "Azure fundamentals certification course"
+    },
+    {
+      "type": "Book",
+      "title": "Microsoft Azure Administrator Exam Guide",
+      "url": "https://www.packtpub.com/product/microsoft-azure-administrator-exam-guide-az-104/9781800566934",
+      "description": "Complete guide to Azure administration"
+    }
+  ],
+  "Google Cloud": [
+    {
+      "type": "Documentation",
+      "title": "Google Cloud Documentation",
+      "url": "https://cloud.google.com/docs",
+      "description": "Complete Google Cloud Platform documentation"
+    },
+    {
+      "type": "Video",
+      "title": "Google Cloud Platform Full Course",
+      "url": "https://www.youtube.com/watch?v=jpno8FSqpc8",
+      "description": "Complete GCP tutorial for beginners"
+    },
+    {
+      "type": "Course",
+      "title": "Google Cloud Platform Fundamentals",
+      "url": "https://www.coursera.org/learn/gcp-fundamentals",
+      "description": "GCP fundamentals course by Google"
+    },
+    {
+      "type": "Book",
+      "title": "Google Cloud Platform in Action",
+      "url": "https://www.manning.com/books/google-cloud-platform-in-action",
+      "description": "Practical guide to Google Cloud Platform"
+    }
+  ],
+  "CI/CD": [
+    {
+      "type": "Documentation",
+      "title": "GitLab CI/CD Documentation",
+      "url": "https://docs.gitlab.com/ee/ci/",
+      "description": "Complete GitLab CI/CD documentation"
+    },
+    {
+      "type": "Video",
+      "title": "CI/CD Pipeline Tutorial",
+      "url": "https://www.youtube.com/watch?v=scEDHsr3APg",
+      "description": "Complete CI/CD pipeline tutorial"
+    },
+    {
+      "type": "Course",
+      "title": "DevOps: CI/CD with Jenkins Pipelines",
+      "url": "https://www.udemy.com/course/devops-ci-cd-with-jenkins-pipelines-groovy-docker/",
+      "description": "Comprehensive CI/CD course with Jenkins"
+    },
+    {
+      "type": "Book",
+      "title": "Continuous Delivery",
+      "url": "https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912",
+      "description": "Reliable software releases through build, test, and deployment automation"
+    }
+  ],
+  "Ansible": [
+    {
+      "type": "Documentation",
+      "title": "Ansible Official Documentation",
+      "url": "https://docs.ansible.com/",
+      "description": "Complete Ansible documentation and guides"
+    },
+    {
+      "type": "Video",
+      "title": "Ansible Tutorial for Beginners",
+      "url": "https://www.youtube.com/watch?v=3RiVKs8GHYQ",
+      "description": "Complete Ansible automation tutorial"
+    },
+    {
+      "type": "Course",
+      "title": "Ansible for the Absolute Beginner",
+      "url": "https://www.udemy.com/course/learn-ansible/",
+      "description": "Hands-on Ansible course for beginners"
+    },
+    {
+      "type": "Book",
+      "title": "Ansible for DevOps",
+      "url": "https://www.ansiblefordevops.com/",
+      "description": "Server and configuration management for humans"
+    }
+  ],
+  "Java": [
+    {
+      "type": "Documentation",
+      "title": "Oracle Java Documentation",
+      "url": "https://docs.oracle.com/en/java/",
+      "description": "Official Java documentation and tutorials"
+    },
+    {
+      "type": "Video",
+      "title": "Java Tutorial for Beginners",
+      "url": "https://www.youtube.com/watch?v=eIrMbAQSU34",
+      "description": "Complete Java programming tutorial"
+    },
+    {
+      "type": "Course",
+      "title": "Java Programming Masterclass",
+      "url": "https://www.udemy.com/course/java-the-complete-java-developer-course/",
+      "description": "Comprehensive Java course from basics to advanced"
+    },
+    {
+      "type": "Book",
+      "title": "Effective Java",
+      "url": "https://www.oreilly.com/library/view/effective-java/9780134686097/",
+      "description": "Best practices for Java programming"
+    }
+  ],
+  "TypeScript": [
+    {
+      "type": "Documentation",
+      "title": "TypeScript Official Documentation",
+      "url": "https://www.typescriptlang.org/docs/",
+      "description": "Complete TypeScript documentation and handbook"
+    },
+    {
+      "type": "Video",
+      "title": "TypeScript Tutorial for Beginners",
+      "url": "https://www.youtube.com/watch?v=BwuLxPH8IDs",
+      "description": "Complete TypeScript tutorial"
+    },
+    {
+      "type": "Course",
+      "title": "Understanding TypeScript",
+      "url": "https://www.udemy.com/course/understanding-typescript/",
+      "description": "Comprehensive TypeScript course"
+    },
+    {
+      "type": "Book",
+      "title": "Programming TypeScript",
+      "url": "https://www.oreilly.com/library/view/programming-typescript/9781492037644/",
+      "description": "Making your JavaScript applications scale"
+    }
+  ],
+  "SQL": [
+    {
+      "type": "Documentation",
+      "title": "PostgreSQL Documentation",
+      "url": "https://www.postgresql.org/docs/",
+      "description": "Complete PostgreSQL documentation"
+    },
+    {
+      "type": "Video",
+      "title": "SQL Tutorial for Beginners",
+      "url": "https://www.youtube.com/watch?v=HXV3zeQKqGY",
+      "description": "Complete SQL tutorial covering basics to advanced"
+    },
+    {
+      "type": "Course",
+      "title": "The Complete SQL Bootcamp",
+      "url": "https://www.udemy.com/course/the-complete-sql-bootcamp/",
+      "description": "Comprehensive SQL course with PostgreSQL"
+    },
+    {
+      "type": "Book",
+      "title": "SQL in 10 Minutes",
+      "url": "https://www.amazon.com/SQL-Minutes-Sams-Teach-Yourself/dp/0135182794",
+      "description": "Quick and practical SQL guide"
+    }
+  ],
+  "REST API": [
+    {
+      "type": "Documentation",
+      "title": "RESTful API Design Guide",
+      "url": "https://restfulapi.net/",
+      "description": "Complete REST API design guidelines"
+    },
+    {
+      "type": "Video",
+      "title": "REST API Tutorial",
+      "url": "https://www.youtube.com/watch?v=SLwpqD8n3d0",
+      "description": "Complete REST API tutorial"
+    },
+    {
+      "type": "Course",
+      "title": "REST APIs with Flask and Python",
+      "url": "https://www.udemy.com/course/rest-api-flask-and-python/",
+      "description": "Build professional REST APIs with Python"
+    },
+    {
+      "type": "Book",
+      "title": "RESTful Web APIs",
+      "url": "https://www.oreilly.com/library/view/restful-web-apis/9781449359713/",
+      "description": "Services for a changing world"
+    }
+  ],
+  "GraphQL": [
+    {
+      "type": "Documentation",
+      "title": "GraphQL Official Documentation",
+      "url": "https://graphql.org/learn/",
+      "description": "Complete GraphQL documentation and tutorials"
+    },
+    {
+      "type": "Video",
+      "title": "GraphQL Tutorial for Beginners",
+      "url": "https://www.youtube.com/watch?v=ed8SzALpx1Q",
+      "description": "Complete GraphQL tutorial"
+    },
+    {
+      "type": "Course",
+      "title": "The Modern GraphQL Bootcamp",
+      "url": "https://www.udemy.com/course/graphql-bootcamp/",
+      "description": "Comprehensive GraphQL course with Node.js"
+    },
+    {
+      "type": "Book",
+      "title": "Learning GraphQL",
+      "url": "https://www.oreilly.com/library/view/learning-graphql/9781492030706/",
+      "description": "Declarative data fetching for modern web apps"
+    }
+  ],
+  "Redis": [
+    {
+      "type": "Documentation",
+      "title": "Redis Official Documentation",
+      "url": "https://redis.io/documentation",
+      "description": "Complete Redis documentation and commands"
+    },
+    {
+      "type": "Video",
+      "title": "Redis Tutorial for Beginners",
+      "url": "https://www.youtube.com/watch?v=jgpVdJB2sKQ",
+      "description": "Complete Redis tutorial"
+    },
+    {
+      "type": "Course",
+      "title": "Redis: The Complete Developer's Guide",
+      "url": "https://www.udemy.com/course/redis-the-complete-developers-guide-p/",
+      "description": "Comprehensive Redis course"
+    },
+    {
+      "type": "Book",
+      "title": "Redis in Action",
+      "url": "https://www.manning.com/books/redis-in-action",
+      "description": "Practical guide to Redis"
+    }
+  ],
+  "Microservices": [
+    {
+      "type": "Documentation",
+      "title": "Microservices.io",
+      "url": "https://microservices.io/",
+      "description": "Comprehensive microservices patterns and best practices"
+    },
+    {
+      "type": "Video",
+      "title": "Microservices Architecture Tutorial",
+      "url": "https://www.youtube.com/watch?v=CdBtNQZH8a4",
+      "description": "Complete microservices architecture tutorial"
+    },
+    {
+      "type": "Course",
+      "title": "Microservices with Node JS and React",
+      "url": "https://www.udemy.com/course/microservices-with-node-js-and-react/",
+      "description": "Build, deploy, and scale microservices"
+    },
+    {
+      "type": "Book",
+      "title": "Building Microservices",
+      "url": "https://www.oreilly.com/library/view/building-microservices-2nd/9781492034018/",
+      "description": "Designing fine-grained systems"
+    }
+  ],
+  "TensorFlow": [
+    {
+      "type": "Documentation",
+      "title": "TensorFlow Official Documentation",
+      "url": "https://www.tensorflow.org/learn",
+      "description": "Complete TensorFlow documentation and tutorials"
+    },
+    {
+      "type": "Video",
+      "title": "TensorFlow 2.0 Complete Course",
+      "url": "https://www.youtube.com/watch?v=tPYj3fFJGjk",
+      "description": "Complete TensorFlow tutorial for beginners"
+    },
+    {
+      "type": "Course",
+      "title": "TensorFlow Developer Certificate",
+      "url": "https://www.coursera.org/professional-certificates/tensorflow-in-practice",
+      "description": "Official TensorFlow certification by deeplearning.ai"
+    },
+    {
+      "type": "Book",
+      "title": "Hands-On Machine Learning with TensorFlow",
+      "url": "https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/",
+      "description": "Practical TensorFlow for machine learning"
+    }
+  ],
+  "PyTorch": [
+    {
+      "type": "Documentation",
+      "title": "PyTorch Official Documentation",
+      "url": "https://pytorch.org/docs/stable/index.html",
+      "description": "Complete PyTorch documentation and tutorials"
+    },
+    {
+      "type": "Video",
+      "title": "PyTorch for Deep Learning",
+      "url": "https://www.youtube.com/watch?v=c36lUUr864M",
+      "description": "Complete PyTorch tutorial"
+    },
+    {
+      "type": "Course",
+      "title": "PyTorch for Deep Learning Bootcamp",
+      "url": "https://www.udemy.com/course/pytorch-for-deep-learning/",
+      "description": "Comprehensive PyTorch course"
+    },
+    {
+      "type": "Book",
+      "title": "Deep Learning with PyTorch",
+      "url": "https://www.manning.com/books/deep-learning-with-pytorch",
+      "description": "Complete guide to deep learning with PyTorch"
+    }
+  ],
+  "Deep Learning": [
+    {
+      "type": "Documentation",
+      "title": "Deep Learning Book",
+      "url": "https://www.deeplearningbook.org/",
+      "description": "Comprehensive deep learning textbook by Ian Goodfellow"
+    },
+    {
+      "type": "Video",
+      "title": "Deep Learning Specialization",
+      "url": "https://www.youtube.com/playlist?list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0",
+      "description": "Andrew Ng's deep learning course"
+    },
+    {
+      "type": "Course",
+      "title": "Deep Learning A-Z",
+      "url": "https://www.udemy.com/course/deeplearning/",
+      "description": "Hands-on deep learning with TensorFlow and Keras"
+    },
+    {
+      "type": "Book",
+      "title": "Deep Learning",
+      "url": "https://www.deeplearningbook.org/",
+      "description": "The definitive deep learning textbook"
+    }
+  ],
+  "Natural Language Processing": [
+    {
+      "type": "Documentation",
+      "title": "Hugging Face Documentation",
+      "url": "https://huggingface.co/docs",
+      "description": "State-of-the-art NLP models and documentation"
+    },
+    {
+      "type": "Video",
+      "title": "NLP with Deep Learning",
+      "url": "https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ",
+      "description": "Stanford CS224N NLP course"
+    },
+    {
+      "type": "Course",
+      "title": "Natural Language Processing Specialization",
+      "url": "https://www.coursera.org/specializations/natural-language-processing",
+      "description": "Comprehensive NLP specialization by deeplearning.ai"
+    },
+    {
+      "type": "Book",
+      "title": "Speech and Language Processing",
+      "url": "https://web.stanford.edu/~jurafsky/slp3/",
+      "description": "Comprehensive NLP textbook by Jurafsky and Martin"
+    }
+  ],
+  "Computer Vision": [
+    {
+      "type": "Documentation",
+      "title": "OpenCV Documentation",
+      "url": "https://docs.opencv.org/",
+      "description": "Complete OpenCV documentation"
+    },
+    {
+      "type": "Video",
+      "title": "Computer Vision Course",
+      "url": "https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r",
+      "description": "Stanford CS231n Computer Vision course"
+    },
+    {
+      "type": "Course",
+      "title": "Deep Learning for Computer Vision",
+      "url": "https://www.udemy.com/course/deep-learning-computer-vision-python-opencv/",
+      "description": "Comprehensive computer vision with deep learning"
+    },
+    {
+      "type": "Book",
+      "title": "Computer Vision: Algorithms and Applications",
+      "url": "https://szeliski.org/Book/",
+      "description": "Comprehensive computer vision textbook"
+    }
+  ],
+  "Keras": [
+    {
+      "type": "Documentation",
+      "title": "Keras Official Documentation",
+      "url": "https://keras.io/",
+      "description": "Complete Keras documentation"
+    },
+    {
+      "type": "Video",
+      "title": "Keras Tutorial for Beginners",
+      "url": "https://www.youtube.com/watch?v=qFJeN9V1ZsI",
+      "description": "Complete Keras tutorial"
+    },
+    {
+      "type": "Course",
+      "title": "Deep Learning with Keras",
+      "url": "https://www.udemy.com/course/deep-learning-with-keras/",
+      "description": "Hands-on deep learning with Keras"
+    },
+    {
+      "type": "Book",
+      "title": "Deep Learning with Python",
+      "url": "https://www.manning.com/books/deep-learning-with-python",
+      "description": "Keras creator's guide to deep learning"
+    }
+  ],
+  "Scikit-learn": [
+    {
+      "type": "Documentation",
+      "title": "Scikit-learn Documentation",
+      "url": "https://scikit-learn.org/stable/",
+      "description": "Complete scikit-learn documentation"
+    },
+    {
+      "type": "Video",
+      "title": "Scikit-learn Tutorial",
+      "url": "https://www.youtube.com/watch?v=pqNCD_5r0IU",
+      "description": "Complete scikit-learn tutorial"
+    },
+    {
+      "type": "Course",
+      "title": "Machine Learning with Scikit-Learn",
+      "url": "https://www.udemy.com/course/machine-learning-with-scikit-learn/",
+      "description": "Practical machine learning with scikit-learn"
+    },
+    {
+      "type": "Book",
+      "title": "Introduction to Machine Learning with Python",
+      "url": "https://www.oreilly.com/library/view/introduction-to-machine/9781449369880/",
+      "description": "Machine learning with scikit-learn guide"
+    }
+  ],
+  "Pandas": [
+    {
+      "type": "Documentation",
+      "title": "Pandas Official Documentation",
+      "url": "https://pandas.pydata.org/docs/",
+      "description": "Complete pandas documentation"
+    },
+    {
+      "type": "Video",
+      "title": "Pandas Tutorial for Beginners",
+      "url": "https://www.youtube.com/watch?v=vmEHCJofslg",
+      "description": "Complete pandas tutorial"
+    },
+    {
+      "type": "Course",
+      "title": "Data Analysis with Pandas",
+      "url": "https://www.udemy.com/course/data-analysis-with-pandas/",
+      "description": "Comprehensive pandas course"
+    },
+    {
+      "type": "Book",
+      "title": "Python for Data Analysis",
+      "url": "https://www.oreilly.com/library/view/python-for-data/9781491957653/",
+      "description": "Data wrangling with pandas by Wes McKinney"
+    }
+  ],
+  "NumPy": [
+    {
+      "type": "Documentation",
+      "title": "NumPy Official Documentation",
+      "url": "https://numpy.org/doc/",
+      "description": "Complete NumPy documentation"
+    },
+    {
+      "type": "Video",
+      "title": "NumPy Tutorial for Beginners",
+      "url": "https://www.youtube.com/watch?v=QUT1VHiLmmI",
+      "description": "Complete NumPy tutorial"
+    },
+    {
+      "type": "Course",
+      "title": "NumPy for Data Science",
+      "url": "https://www.udemy.com/course/deep-learning-prerequisites-the-numpy-stack-in-python/",
+      "description": "NumPy fundamentals for data science"
+    },
+    {
+      "type": "Book",
+      "title": "Guide to NumPy",
+      "url": "https://web.mit.edu/dvp/Public/numpybook.pdf",
+      "description": "Comprehensive NumPy guide"
+    }
+  ],
+  "Data Science": [
+    {
+      "type": "Documentation",
+      "title": "Data Science Handbook",
+      "url": "https://jakevdp.github.io/PythonDataScienceHandbook/",
+      "description": "Python data science handbook"
+    },
+    {
+      "type": "Video",
+      "title": "Data Science Full Course",
+      "url": "https://www.youtube.com/watch?v=ua-CiDNNj30",
+      "description": "Complete data science tutorial"
+    },
+    {
+      "type": "Course",
+      "title": "Data Science Specialization",
+      "url": "https://www.coursera.org/specializations/jhu-data-science",
+      "description": "Johns Hopkins data science specialization"
+    },
+    {
+      "type": "Book",
+      "title": "Data Science from Scratch",
+      "url": "https://www.oreilly.com/library/view/data-science-from/9781492041122/",
+      "description": "First principles approach to data science"
+    }
+  ],
+  "MLOps": [
+    {
+      "type": "Documentation",
+      "title": "MLOps Guide",
+      "url": "https://ml-ops.org/",
+      "description": "Comprehensive MLOps documentation"
+    },
+    {
+      "type": "Video",
+      "title": "MLOps Tutorial",
+      "url": "https://www.youtube.com/watch?v=Cj3mSBVW6Sg",
+      "description": "Complete MLOps tutorial"
+    },
+    {
+      "type": "Course",
+      "title": "Machine Learning Engineering for Production",
+      "url": "https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops",
+      "description": "MLOps specialization by deeplearning.ai"
+    },
+    {
+      "type": "Book",
+      "title": "Introducing MLOps",
+      "url": "https://www.oreilly.com/library/view/introducing-mlops/9781492083283/",
+      "description": "How to scale machine learning in the enterprise"
+    }
+  ],
+  "Jupyter": [
+    {
+      "type": "Documentation",
+      "title": "Jupyter Documentation",
+      "url": "https://jupyter.org/documentation",
+      "description": "Complete Jupyter documentation"
+    },
+    {
+      "type": "Video",
+      "title": "Jupyter Notebook Tutorial",
+      "url": "https://www.youtube.com/watch?v=HW29067qVWk",
+      "description": "Complete Jupyter notebook tutorial"
+    },
+    {
+      "type": "Course",
+      "title": "Jupyter Notebook for Data Science",
+      "url": "https://www.udemy.com/course/jupyter-notebook-for-data-science/",
+      "description": "Master Jupyter for data science"
+    },
+    {
+      "type": "Book",
+      "title": "Learning Jupyter",
+      "url": "https://www.packtpub.com/product/learning-jupyter-5/9781789137408",
+      "description": "Interactive computing with Jupyter"
+    }
+  ],
+  "R": [
+    {
+      "type": "Documentation",
+      "title": "R Documentation",
+      "url": "https://www.r-project.org/other-docs.html",
+      "description": "Official R documentation"
+    },
+    {
+      "type": "Video",
+      "title": "R Programming Tutorial",
+      "url": "https://www.youtube.com/watch?v=_V8eKsto3Ug",
+      "description": "Complete R programming tutorial"
+    },
+    {
+      "type": "Course",
+      "title": "R Programming A-Z",
+      "url": "https://www.udemy.com/course/r-programming/",
+      "description": "Comprehensive R programming course"
+    },
+    {
+      "type": "Book",
+      "title": "R for Data Science",
+      "url": "https://r4ds.had.co.nz/",
+      "description": "Import, tidy, transform, visualize, and model data"
+    }
+  ],
+  "Spark": [
+    {
+      "type": "Documentation",
+      "title": "Apache Spark Documentation",
+      "url": "https://spark.apache.org/docs/latest/",
+      "description": "Complete Apache Spark documentation"
+    },
+    {
+      "type": "Video",
+      "title": "Apache Spark Tutorial",
+      "url": "https://www.youtube.com/watch?v=QaoJNXW6SQo",
+      "description": "Complete Spark tutorial"
+    },
+    {
+      "type": "Course",
+      "title": "Apache Spark with Python",
+      "url": "https://www.udemy.com/course/spark-and-python-for-big-data-with-pyspark/",
+      "description": "Big data with PySpark"
+    },
+    {
+      "type": "Book",
+      "title": "Learning Spark",
+      "url": "https://www.oreilly.com/library/view/learning-spark-2nd/9781492050032/",
+      "description": "Lightning-fast data analytics"
+    }
+  ],
+  "Hadoop": [
+    {
+      "type": "Documentation",
+      "title": "Apache Hadoop Documentation",
+      "url": "https://hadoop.apache.org/docs/stable/",
+      "description": "Complete Hadoop documentation"
+    },
+    {
+      "type": "Video",
+      "title": "Hadoop Tutorial for Beginners",
+      "url": "https://www.youtube.com/watch?v=mafw2-CVYnA",
+      "description": "Complete Hadoop tutorial"
+    },
+    {
+      "type": "Course",
+      "title": "The Ultimate Hands-On Hadoop",
+      "url": "https://www.udemy.com/course/the-ultimate-hands-on-hadoop-tame-your-big-data/",
+      "description": "Comprehensive Hadoop course"
+    },
+    {
+      "type": "Book",
+      "title": "Hadoop: The Definitive Guide",
+      "url": "https://www.oreilly.com/library/view/hadoop-the-definitive/9781491901687/",
+      "description": "Complete guide to Hadoop"
+    }
+  ],
+  "Big Data": [
+    {
+      "type": "Documentation",
+      "title": "Big Data University",
+      "url": "https://cognitiveclass.ai/",
+      "description": "Free big data courses and resources"
+    },
+    {
+      "type": "Video",
+      "title": "Big Data Full Course",
+      "url": "https://www.youtube.com/watch?v=KCEPoPJ8sWw",
+      "description": "Complete big data tutorial"
+    },
+    {
+      "type": "Course",
+      "title": "Big Data Specialization",
+      "url": "https://www.coursera.org/specializations/big-data",
+      "description": "UC San Diego big data specialization"
+    },
+    {
+      "type": "Book",
+      "title": "Big Data: Principles and Practices",
+      "url": "https://www.manning.com/books/big-data",
+      "description": "Scalable real-time data systems"
+    }
+  ],
+  "Statistics": [
+    {
+      "type": "Documentation",
+      "title": "Statistics How To",
+      "url": "https://www.statisticshowto.com/",
+      "description": "Comprehensive statistics tutorials"
+    },
+    {
+      "type": "Video",
+      "title": "Statistics Full Course",
+      "url": "https://www.youtube.com/watch?v=xxpc-HPKN28",
+      "description": "Complete statistics tutorial"
+    },
+    {
+      "type": "Course",
+      "title": "Statistics with Python Specialization",
+      "url": "https://www.coursera.org/specializations/statistics-with-python",
+      "description": "University of Michigan statistics specialization"
+    },
+    {
+      "type": "Book",
+      "title": "Think Stats",
+      "url": "https://greenteapress.com/thinkstats2/html/index.html",
+      "description": "Exploratory data analysis in Python"
+    }
+  ],
+  "Algorithms": [
+    {
+      "type": "Documentation",
+      "title": "Algorithm Visualizations",
+      "url": "https://visualgo.net/",
+      "description": "Interactive algorithm visualizations"
+    },
+    {
+      "type": "Video",
+      "title": "Algorithms Course",
+      "url": "https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O",
+      "description": "MIT algorithms course"
+    },
+    {
+      "type": "Course",
+      "title": "Algorithms Specialization",
+      "url": "https://www.coursera.org/specializations/algorithms",
+      "description": "Stanford algorithms specialization"
+    },
+    {
+      "type": "Book",
+      "title": "Introduction to Algorithms",
+      "url": "https://mitpress.mit.edu/books/introduction-algorithms-third-edition",
+      "description": "The CLRS algorithms textbook"
+    }
+  ],
+  "AI": [
+    {
+      "type": "Documentation",
+      "title": "AI Guide",
+      "url": "https://www.ibm.com/cloud/learn/what-is-artificial-intelligence",
+      "description": "Comprehensive AI guide by IBM"
+    },
+    {
+      "type": "Video",
+      "title": "Artificial Intelligence Course",
+      "url": "https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi",
+      "description": "MIT AI course"
+    },
+    {
+      "type": "Course",
+      "title": "AI For Everyone",
+      "url": "https://www.coursera.org/learn/ai-for-everyone",
+      "description": "Non-technical AI course by Andrew Ng"
+    },
+    {
+      "type": "Book",
+      "title": "Artificial Intelligence: A Modern Approach",
+      "url": "http://aima.cs.berkeley.edu/",
+      "description": "The definitive AI textbook"
+    }
+  ],
+  "Angular": [
+    {
+      "type": "Documentation",
+      "title": "Angular Official Documentation",
+      "url": "https://angular.io/docs",
+      "description": "Complete Angular documentation"
+    },
+    {
+      "type": "Video",
+      "title": "Angular Tutorial for Beginners",
+      "url": "https://www.youtube.com/watch?v=3qBXWUpoPHo",
+      "description": "Complete Angular tutorial"
+    },
+    {
+      "type": "Course",
+      "title": "Angular - The Complete Guide",
+      "url": "https://www.udemy.com/course/the-complete-guide-to-angular-2/",
+      "description": "Comprehensive Angular course"
+    },
+    {
+      "type": "Book",
+      "title": "ng-book: The Complete Guide to Angular",
+      "url": "https://www.ng-book.com/2/",
+      "description": "Comprehensive Angular guide"
+    }
+  ],
+  "Vue.js": [
+    {
+      "type": "Documentation",
+      "title": "Vue.js Official Documentation",
+      "url": "https://vuejs.org/guide/introduction.html",
+      "description": "Complete Vue.js documentation"
+    },
+    {
+      "type": "Video",
+      "title": "Vue.js Tutorial for Beginners",
+      "url": "https://www.youtube.com/watch?v=FXpIoQ_rT_c",
+      "description": "Complete Vue.js tutorial"
+    },
+    {
+      "type": "Course",
+      "title": "Vue - The Complete Guide",
+      "url": "https://www.udemy.com/course/vuejs-2-the-complete-guide/",
+      "description": "Comprehensive Vue.js course"
+    },
+    {
+      "type": "Book",
+      "title": "The Majesty of Vue.js",
+      "url": "https://leanpub.com/vuejs2",
+      "description": "Complete Vue.js guide"
+    }
+  ],
+  "Express.js": [
+    {
+      "type": "Documentation",
+      "title": "Express.js Official Documentation",
+      "url": "https://expressjs.com/",
+      "description": "Complete Express.js documentation"
+    },
+    {
+      "type": "Video",
+      "title": "Express.js Tutorial",
+      "url": "https://www.youtube.com/watch?v=L72fhGm1tfE",
+      "description": "Complete Express.js tutorial"
+    },
+    {
+      "type": "Course",
+      "title": "Node.js, Express & MongoDB Dev to Deployment",
+      "url": "https://www.udemy.com/course/nodejs-express-mongodb-dev-to-deployment/",
+      "description": "Full stack with Express"
+    },
+    {
+      "type": "Book",
+      "title": "Express in Action",
+      "url": "https://www.manning.com/books/express-in-action",
+      "description": "Writing, building, and testing Node.js applications"
+    }
+  ],
+  "Django": [
+    {
+      "type": "Documentation",
+      "title": "Django Official Documentation",
+      "url": "https://docs.djangoproject.com/",
+      "description": "Complete Django documentation"
+    },
+    {
+      "type": "Video",
+      "title": "Django Tutorial for Beginners",
+      "url": "https://www.youtube.com/watch?v=rHux0gMZ3Eg",
+      "description": "Complete Django tutorial"
+    },
+    {
+      "type": "Course",
+      "title": "Python Django - The Practical Guide",
+      "url": "https://www.udemy.com/course/python-django-the-practical-guide/",
+      "description": "Comprehensive Django course"
+    },
+    {
+      "type": "Book",
+      "title": "Two Scoops of Django",
+      "url": "https://www.feldroy.com/books/two-scoops-of-django-3-x",
+      "description": "Best practices for Django"
+    }
+  ],
+  "Superset": [
+    {
+      "type": "Documentation",
+      "title": "Apache Superset Documentation",
+      "url": "https://superset.apache.org/docs/intro",
+      "description": "Official Superset documentation covering installation, dashboards, and SQL Lab"
+    },
+    {
+      "type": "Video",
+      "title": "Apache Superset Tutorial",
+      "url": "https://www.youtube.com/watch?v=EPXJkz47M2E",
+      "description": "Step-by-step walkthrough of building dashboards with Apache Superset"
+    },
+    {
+      "type": "Course",
+      "title": "Data Visualization with Apache Superset",
+      "url": "https://www.udemy.com/course/apache-superset/",
+      "description": "Hands-on course covering Superset setup, charts, dashboards, and SQL Lab"
+    },
+    {
+      "type": "Book",
+      "title": "Practical Business Intelligence with Apache Superset",
+      "url": "https://www.packtpub.com/product/practical-business-intelligence-with-apache-superset/9781803239385",
+      "description": "Learn to build interactive analytics dashboards with Apache Superset"
+    }
+  ],
+  "Flask": [
+    {
+      "type": "Documentation",
+      "title": "Flask Official Documentation",
+      "url": "https://flask.palletsprojects.com/",
+      "description": "Complete Flask documentation"
+    },
+    {
+      "type": "Video",
+      "title": "Flask Tutorial for Beginners",
+      "url": "https://www.youtube.com/watch?v=Z1RJmh_OqeA",
+      "description": "Complete Flask tutorial"
+    },
+    {
+      "type": "Course",
+      "title": "REST APIs with Flask and Python",
+      "url": "https://www.udemy.com/course/rest-api-flask-and-python/",
+      "description": "Build REST APIs with Flask"
+    },
+    {
+      "type": "Book",
+      "title": "Flask Web Development",
+      "url": "https://www.oreilly.com/library/view/flask-web-development/9781491991725/",
+      "description": "Developing web applications with Python"
+    }
+  ],
+  "Spring Boot": [
+    {
+      "type": "Documentation",
+      "title": "Spring Boot Documentation",
+      "url": "https://spring.io/projects/spring-boot",
+      "description": "Complete Spring Boot documentation"
+    },
+    {
+      "type": "Video",
+      "title": "Spring Boot Tutorial for Beginners",
+      "url": "https://www.youtube.com/watch?v=vtPkZShrvXQ",
+      "description": "Complete Spring Boot tutorial"
+    },
+    {
+      "type": "Course",
+      "title": "Spring & Hibernate for Beginners",
+      "url": "https://www.udemy.com/course/spring-hibernate-tutorial/",
+      "description": "Comprehensive Spring Boot course"
+    },
+    {
+      "type": "Book",
+      "title": "Spring Boot in Action",
+      "url": "https://www.manning.com/books/spring-boot-in-action",
+      "description": "Building microservices with Spring Boot"
+    }
+  ],
+  "PostgreSQL": [
+    {
+      "type": "Documentation",
+      "title": "PostgreSQL Official Documentation",
+      "url": "https://www.postgresql.org/docs/",
+      "description": "Complete PostgreSQL documentation"
+    },
+    {
+      "type": "Video",
+      "title": "PostgreSQL Tutorial for Beginners",
+      "url": "https://www.youtube.com/watch?v=qw--VYLpxG4",
+      "description": "Complete PostgreSQL tutorial"
+    },
+    {
+      "type": "Course",
+      "title": "The Complete SQL Bootcamp",
+      "url": "https://www.udemy.com/course/the-complete-sql-bootcamp/",
+      "description": "SQL with PostgreSQL"
+    },
+    {
+      "type": "Book",
+      "title": "PostgreSQL: Up and Running",
+      "url": "https://www.oreilly.com/library/view/postgresql-up-and/9781491963401/",
+      "description": "Practical PostgreSQL guide"
+    }
+  ],
+  "MySQL": [
+    {
+      "type": "Documentation",
+      "title": "MySQL Official Documentation",
+      "url": "https://dev.mysql.com/doc/",
+      "description": "Complete MySQL documentation"
+    },
+    {
+      "type": "Video",
+      "title": "MySQL Tutorial for Beginners",
+      "url": "https://www.youtube.com/watch?v=7S_tz1z_5bA",
+      "description": "Complete MySQL tutorial"
+    },
+    {
+      "type": "Course",
+      "title": "The Ultimate MySQL Bootcamp",
+      "url": "https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/",
+      "description": "Comprehensive MySQL course"
+    },
+    {
+      "type": "Book",
+      "title": "Learning MySQL",
+      "url": "https://www.oreilly.com/library/view/learning-mysql/9780596008642/",
+      "description": "Get a handle on your data"
+    }
+  ],
+  "Elasticsearch": [
+    {
+      "type": "Documentation",
+      "title": "Elasticsearch Documentation",
+      "url": "https://www.elastic.co/guide/index.html",
+      "description": "Complete Elasticsearch documentation"
+    },
+    {
+      "type": "Video",
+      "title": "Elasticsearch Tutorial for Beginners",
+      "url": "https://www.youtube.com/watch?v=C3tlMqaNSaI",
+      "description": "Complete Elasticsearch tutorial"
+    },
+    {
+      "type": "Course",
+      "title": "Complete Guide to Elasticsearch",
+      "url": "https://www.udemy.com/course/elasticsearch-complete-guide/",
+      "description": "Comprehensive Elasticsearch course"
+    },
+    {
+      "type": "Book",
+      "title": "Elasticsearch: The Definitive Guide",
+      "url": "https://www.oreilly.com/library/view/elasticsearch-the-definitive/9781449358532/",
+      "description": "A distributed real-time search and analytics engine"
+    }
+  ],
+  "RabbitMQ": [
+    {
+      "type": "Documentation",
+      "title": "RabbitMQ Documentation",
+      "url": "https://www.rabbitmq.com/documentation.html",
+      "description": "Complete RabbitMQ documentation"
+    },
+    {
+      "type": "Video",
+      "title": "RabbitMQ Tutorial",
+      "url": "https://www.youtube.com/watch?v=deG25y_r6OY",
+      "description": "Complete RabbitMQ tutorial"
+    },
+    {
+      "type": "Course",
+      "title": "RabbitMQ: Messaging with Java, Spring Boot And Spring MVC",
+      "url": "https://www.udemy.com/course/rabbitmq-messaging-with-java-spring-boot-and-spring-mvc/",
+      "description": "RabbitMQ with Spring"
+    },
+    {
+      "type": "Book",
+      "title": "RabbitMQ in Action",
+      "url": "https://www.manning.com/books/rabbitmq-in-action",
+      "description": "Distributed messaging for everyone"
+    }
+  ],
+  "Kafka": [
+    {
+      "type": "Documentation",
+      "title": "Apache Kafka Documentation",
+      "url": "https://kafka.apache.org/documentation/",
+      "description": "Complete Kafka documentation"
+    },
+    {
+      "type": "Video",
+      "title": "Apache Kafka Tutorial",
+      "url": "https://www.youtube.com/watch?v=R873BlNVUB4",
+      "description": "Complete Kafka tutorial"
+    },
+    {
+      "type": "Course",
+      "title": "Apache Kafka Series - Learn Apache Kafka for Beginners",
+      "url": "https://www.udemy.com/course/apache-kafka/",
+      "description": "Comprehensive Kafka course"
+    },
+    {
+      "type": "Book",
+      "title": "Kafka: The Definitive Guide",
+      "url": "https://www.oreilly.com/library/view/kafka-the-definitive/9781491936153/",
+      "description": "Real-time data and stream processing"
+    }
+  ],
+  "Nginx": [
+    {
+      "type": "Documentation",
+      "title": "Nginx Official Documentation",
+      "url": "https://nginx.org/en/docs/",
+      "description": "Complete Nginx documentation"
+    },
+    {
+      "type": "Video",
+      "title": "Nginx Tutorial for Beginners",
+      "url": "https://www.youtube.com/watch?v=7VAI73roXaY",
+      "description": "Complete Nginx tutorial"
+    },
+    {
+      "type": "Course",
+      "title": "Nginx Fundamentals",
+      "url": "https://www.udemy.com/course/nginx-fundamentals/",
+      "description": "High performance servers with Nginx"
+    },
+    {
+      "type": "Book",
+      "title": "Nginx HTTP Server",
+      "url": "https://www.packtpub.com/product/nginx-http-server-fourth-edition/9781788623551",
+      "description": "Harness the power of Nginx"
+    }
+  ],
+  "Apache": [
+    {
+      "type": "Documentation",
+      "title": "Apache HTTP Server Documentation",
+      "url": "https://httpd.apache.org/docs/",
+      "description": "Complete Apache documentation"
+    },
+    {
+      "type": "Video",
+      "title": "Apache Web Server Tutorial",
+      "url": "https://www.youtube.com/watch?v=1CDxpAzvLKY",
+      "description": "Complete Apache tutorial"
+    },
+    {
+      "type": "Course",
+      "title": "Apache Web Server Administration",
+      "url": "https://www.udemy.com/course/apache-web-server-administration/",
+      "description": "Apache server administration"
+    },
+    {
+      "type": "Book",
+      "title": "Apache Cookbook",
+      "url": "https://www.oreilly.com/library/view/apache-cookbook-2nd/0596529945/",
+      "description": "Solutions and examples for Apache administrators"
+    }
+  ]
+}
