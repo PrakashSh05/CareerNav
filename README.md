@@ -1,4 +1,4 @@
-# Career Navigator (NextLeap AI)
+# CareerNav
 
 An AI-powered, real-time career guidance platform that bridges the industry–academia skill gap for engineering students with market-driven insights, personalized learning roadmaps, and project recommendations.
 
